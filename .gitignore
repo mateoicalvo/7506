@@ -2,5 +2,5 @@
 *.zip
 *.csv
 *.csv.gzip
-.ipnyb_checkpoints/
+.ipynb_checkpoints/
 
