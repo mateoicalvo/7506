@@ -1,1 +1,6 @@
+*.gzip
+*.zip
+*.csv
+*.csv.gzip
+.ipnyb_checkpoints
 
