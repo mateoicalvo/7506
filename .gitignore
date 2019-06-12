@@ -4,3 +4,4 @@
 *.csv.gzip
 .ipynb_checkpoints/
 .vscode/
+*.pkl
