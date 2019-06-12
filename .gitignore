@@ -3,4 +3,4 @@
 *.csv
 *.csv.gzip
 .ipynb_checkpoints/
-
+.vscode/
