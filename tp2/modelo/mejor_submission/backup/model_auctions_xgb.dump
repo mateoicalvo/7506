@@ -1,0 +1,1264 @@
+booster[0]:
+0:[apariciones_en_dia_3_auctions<1.5] yes=1,no=2,missing=1,gain=8.87469092e+14,cover=1304437
+	1:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<253184.281] yes=3,no=4,missing=4,gain=1.56261648e+14,cover=772808
+		3:[tiempo_maximo_entre_apariciones_auctions<17013.3066] yes=7,no=8,missing=7,gain=3.0273077e+13,cover=384090
+			7:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<85197.3906] yes=15,no=16,missing=16,gain=2.47551178e+12,cover=185150
+				15:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<4983.17969] yes=31,no=32,missing=32,gain=1.07860722e+12,cover=35935
+					31:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<484.164001] yes=63,no=64,missing=64,gain=2.73963549e+11,cover=3730
+						63:leaf=18004.8359,cover=499
+						64:leaf=26894.7754,cover=3231
+					32:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<95686.2031] yes=65,no=66,missing=66,gain=1.91159599e+11,cover=32205
+						65:leaf=32105.502,cover=31893
+						66:leaf=23225.1934,cover=312
+				16:[tiempo_aparicion_media_hasta_fin_ventana_auctions<1216.92676] yes=33,no=34,missing=34,gain=1.29171141e+12,cover=149215
+					33:[apariciones_en_source_3_auctions<6.5] yes=67,no=68,missing=68,gain=3.31920441e+11,cover=120620
+						67:leaf=33671.2773,cover=17313
+						68:leaf=35352.0547,cover=103307
+					34:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<166593.281] yes=69,no=70,missing=70,gain=2.13204861e+11,cover=28595
+						69:leaf=31444.2344,cover=13380
+						70:leaf=33397.8594,cover=15215
+			8:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<96369.6953] yes=17,no=18,missing=18,gain=5.34226823e+12,cover=198940
+				17:[cantidad_apariciones_en_ventana_auctions<3.5] yes=35,no=36,missing=36,gain=3.30856766e+12,cover=100957
+					35:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<3467.88184] yes=71,no=72,missing=72,gain=2.14932914e+11,cover=29810
+						71:leaf=24827.293,cover=1437
+						72:leaf=29283.2891,cover=28373
+					36:[tiempo_aparicion_media_hasta_fin_ventana_auctions<43168.8203] yes=73,no=74,missing=74,gain=1.6925191e+12,cover=71147
+						73:leaf=26926.2676,cover=25993
+						74:leaf=23375.9316,cover=45154
+				18:[apariciones_en_dia_2_auctions<2.5] yes=37,no=38,missing=37,gain=1.26171375e+12,cover=97983
+					37:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<169630.328] yes=75,no=76,missing=76,gain=2.81823674e+11,cover=49163
+						75:leaf=30144.4219,cover=28897
+						76:leaf=31870.0762,cover=20266
+					38:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<206144.375] yes=77,no=78,missing=78,gain=5.60962994e+11,cover=48820
+						77:leaf=29799.8086,cover=19504
+						78:leaf=27363.459,cover=29316
+		4:[tiempo_ultima_instalacion_hasta_fin_ventana<168061.062] yes=9,no=10,missing=10,gain=2.54637874e+12,cover=388718
+			9:[tiempo_ultima_instalacion_hasta_fin_ventana<84162.0859] yes=19,no=20,missing=20,gain=3.02996521e+11,cover=33552
+				19:[tiempo_desde_hora_mas_frecuente_hasta_00_events<81000] yes=39,no=40,missing=40,gain=1.88609462e+11,cover=18284
+					39:[tiempo_maximo_entre_apariciones_auctions<8.85520172] yes=79,no=80,missing=80,gain=5.04490885e+10,cover=11057
+						79:leaf=10176.2959,cover=9
+						80:leaf=37764.0195,cover=11048
+					40:[tiempo_ultima_instalacion_hasta_fin_ventana<8360.51172] yes=81,no=82,missing=82,gain=1.23673248e+11,cover=7227
+						81:leaf=32985.1797,cover=2058
+						82:leaf=36322.5391,cover=5169
+				20:[tiempo_medio_entre_apariciones_auctions<379.363586] yes=41,no=42,missing=41,gain=8.04131963e+10,cover=15268
+					41:[cantidad_eventos_con_wifi_events<7.5] yes=83,no=84,missing=83,gain=5.48782735e+10,cover=15233
+						83:leaf=38704.5078,cover=13135
+						84:leaf=40838.6133,cover=2098
+					42:[tiempo_medio_entre_apariciones_auctions<533.351074] yes=85,no=86,missing=86,gain=1.40011602e+10,cover=35
+						85:leaf=9625.58984,cover=11
+						86:leaf=25920.0918,cover=24
+			10:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<259139.094] yes=21,no=22,missing=22,gain=1.3990856e+12,cover=355166
+				21:[apariciones_hora_14_a_18_events<0.5] yes=43,no=44,missing=44,gain=6.22770258e+10,cover=6938
+					43:[apariciones_en_source_3_auctions<3.5] yes=87,no=88,missing=88,gain=4.89433334e+10,cover=825
+						87:leaf=25944.918,cover=123
+						88:leaf=34140.5352,cover=702
+					44:[tiempo_maximo_entre_apariciones_auctions<16.5636063] yes=89,no=90,missing=90,gain=7.35303434e+10,cover=6113
+						89:leaf=33017.7031,cover=767
+						90:leaf=36940.9062,cover=5346
+				22:[apariciones_hora_11_a_14_events<22.5] yes=45,no=46,missing=46,gain=8.98185036e+11,cover=348228
+					45:[tiempo_desde_hora_mas_frecuente_hasta_00_events<45000] yes=91,no=92,missing=92,gain=5.49621596e+10,cover=45081
+						91:leaf=39166.1602,cover=21437
+						92:leaf=40025.2734,cover=23644
+					46:[apariciones_hora_2_a_6_clicks<0.5] yes=93,no=94,missing=94,gain=6.81826058e+10,cover=303147
+						93:leaf=31332.7852,cover=100
+						94:leaf=41307.875,cover=303047
+	2:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<7199.43164] yes=5,no=6,missing=6,gain=1.01166478e+14,cover=531629
+		5:[cantidad_apariciones_en_ventana_auctions<28.5] yes=11,no=12,missing=12,gain=3.1198072e+13,cover=175022
+			11:[cantidad_apariciones_en_ventana_auctions<9.5] yes=23,no=24,missing=24,gain=4.66339496e+12,cover=64899
+				23:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<802.06842] yes=47,no=48,missing=48,gain=1.35591782e+12,cover=27117
+					47:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<120.435265] yes=95,no=96,missing=96,gain=2.70158791e+11,cover=4470
+						95:leaf=9295.77148,cover=1023
+						96:leaf=15790.0898,cover=3447
+					48:[cantidad_apariciones_en_ventana_auctions<4.5] yes=97,no=98,missing=98,gain=7.20849863e+11,cover=22647
+						97:leaf=23437.7188,cover=8923
+						98:leaf=19386.748,cover=13724
+				24:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1348.60156] yes=49,no=50,missing=50,gain=1.51378303e+12,cover=37782
+					49:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<127.818321] yes=99,no=100,missing=100,gain=3.98470414e+11,cover=10430
+						99:leaf=5543.55176,cover=1805
+						100:leaf=11266.9697,cover=8625
+					50:[apariciones_hora_14_a_18_auctions<0.5] yes=101,no=102,missing=102,gain=1.46535979e+12,cover=27352
+						101:leaf=18461.5332,cover=10582
+						102:leaf=13198.3574,cover=16770
+			12:[tiempo_maximo_entre_apariciones_auctions<64983.9531] yes=25,no=26,missing=26,gain=8.21206555e+12,cover=110123
+				25:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<224120.938] yes=51,no=52,missing=52,gain=2.98383101e+12,cover=68271
+					51:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1469.54077] yes=103,no=104,missing=104,gain=1.28238328e+12,cover=18918
+						103:leaf=4635.7251,cover=7799
+						104:leaf=10490.7402,cover=11119
+					52:[tiempo_maximo_entre_apariciones_auctions<45349.8906] yes=105,no=106,missing=106,gain=7.82717944e+11,cover=49353
+						105:leaf=1836.30981,cover=31030
+						106:leaf=4721.31982,cover=18323
+				26:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1188.49451] yes=53,no=54,missing=54,gain=3.19170596e+12,cover=41852
+					53:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<141.814697] yes=107,no=108,missing=108,gain=5.01704819e+11,cover=13832
+						107:leaf=2958.39307,cover=4084
+						108:leaf=7580.35742,cover=9748
+					54:[apariciones_hora_6_a_11_auctions<0.5] yes=109,no=110,missing=110,gain=9.3519138e+11,cover=28020
+						109:leaf=14199.127,cover=18210
+						110:leaf=9957.32715,cover=9810
+		6:[apariciones_en_dia_2_auctions<1.5] yes=13,no=14,missing=13,gain=4.95314419e+13,cover=356607
+			13:[tiempo_aparicion_media_hasta_fin_ventana_auctions<1432.07812] yes=27,no=28,missing=28,gain=1.05075704e+13,cover=142675
+				27:[tiempo_aparicion_media_hasta_fin_ventana_auctions<253.293869] yes=55,no=56,missing=56,gain=5.68982503e+11,cover=37167
+					55:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<18830.8887] yes=111,no=112,missing=112,gain=2.40719495e+11,cover=24216
+						111:leaf=29598.6543,cover=5423
+						112:leaf=32290.0762,cover=18793
+					56:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<15275.4033] yes=113,no=114,missing=114,gain=2.2116565e+11,cover=12951
+						113:leaf=25632.4902,cover=2298
+						114:leaf=29475.168,cover=10653
+				28:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<16879.8164] yes=57,no=58,missing=58,gain=2.21590113e+12,cover=105508
+					57:[apariciones_hora_2_a_6_auctions<1.5] yes=115,no=116,missing=116,gain=9.65277123e+11,cover=31624
+						115:leaf=22787.5938,cover=20709
+						116:leaf=18712.543,cover=10915
+					58:[apariciones_hora_6_a_11_auctions<0.5] yes=117,no=118,missing=118,gain=1.13665638e+12,cover=73884
+						117:leaf=25728.4336,cover=53740
+						118:leaf=22638.9082,cover=20144
+			14:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<202593.719] yes=29,no=30,missing=30,gain=1.79149461e+13,cover=213932
+				29:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<68419.7031] yes=59,no=60,missing=60,gain=2.94275724e+12,cover=83497
+					59:[tiempo_maximo_entre_apariciones_auctions<70484.1406] yes=119,no=120,missing=120,gain=3.35230586e+12,cover=66188
+						119:leaf=17892.0352,cover=36506
+						120:leaf=22902.8516,cover=29682
+					60:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<124723.344] yes=121,no=122,missing=122,gain=4.40620024e+11,cover=17309
+						121:leaf=28039.082,cover=5037
+						122:leaf=24128.7754,cover=12272
+				30:[tiempo_maximo_entre_apariciones_auctions<71597.4844] yes=61,no=62,missing=62,gain=1.11047218e+13,cover=130435
+					61:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<52187.5625] yes=123,no=124,missing=124,gain=3.73051464e+12,cover=68424
+						123:leaf=10232.9639,cover=54117
+						124:leaf=16588.707,cover=14307
+					62:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<69452.4219] yes=125,no=126,missing=126,gain=1.46658034e+12,cover=62011
+						125:leaf=17306.6113,cover=52562
+						126:leaf=22046.8242,cover=9449
+booster[1]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<77688.8594] yes=1,no=2,missing=2,gain=3.80231576e+14,cover=1304437
+	1:[apariciones_hora_23_a_2_auctions<1.5] yes=3,no=4,missing=4,gain=7.07270384e+13,cover=600998
+		3:[cantidad_apariciones_en_ventana_auctions<5.5] yes=7,no=8,missing=8,gain=1.49689677e+13,cover=312143
+			7:[tiempo_maximo_entre_apariciones_auctions<546.89624] yes=15,no=16,missing=15,gain=1.68587533e+12,cover=121543
+				15:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<1673.66895] yes=31,no=32,missing=32,gain=4.81824866e+11,cover=47012
+					31:[cantidad_evento_23_events<0.5] yes=63,no=64,missing=64,gain=9.30658386e+10,cover=1440
+						63:leaf=20924.0215,cover=199
+						64:leaf=12720.5078,cover=1241
+					32:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<16937.1055] yes=65,no=66,missing=66,gain=2.77595816e+11,cover=45572
+						65:leaf=19067.5566,cover=13742
+						66:leaf=20961.2695,cover=31830
+				16:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<12275.4609] yes=33,no=34,missing=34,gain=8.06531105e+11,cover=74531
+					33:[apariciones_en_dia_3_auctions<2.5] yes=67,no=68,missing=68,gain=2.28761534e+11,cover=18809
+						67:leaf=16415.4434,cover=12328
+						68:leaf=13836.1025,cover=6481
+					34:[cantidad_apariciones_en_ventana_auctions<2.5] yes=69,no=70,missing=70,gain=3.94096804e+11,cover=55722
+						69:leaf=19702.4414,cover=15263
+						70:leaf=17608.1836,cover=40459
+			8:[tiempo_aparicion_media_hasta_fin_ventana_auctions<56369.4688] yes=17,no=18,missing=18,gain=4.65698606e+12,cover=190600
+				17:[tiempo_aparicion_media_hasta_fin_ventana_auctions<726.257324] yes=35,no=36,missing=36,gain=1.69352574e+12,cover=74657
+					35:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<11921.0557] yes=71,no=72,missing=72,gain=1.29587216e+11,cover=11159
+						71:leaf=17200.2676,cover=2095
+						72:leaf=20291.0801,cover=9064
+					36:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<13392.2861] yes=73,no=74,missing=74,gain=9.70033463e+11,cover=63498
+						73:leaf=12977.8506,cover=19504
+						74:leaf=15946.0068,cover=43994
+				18:[tiempo_maximo_entre_apariciones_auctions<83622.9219] yes=37,no=38,missing=38,gain=3.25828634e+12,cover=115943
+					37:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<18391.0859] yes=75,no=76,missing=76,gain=8.83622412e+11,cover=51999
+						75:leaf=8600.64648,cover=24481
+						76:leaf=11492.4785,cover=27518
+					38:[apariciones_hora_6_a_11_auctions<0.5] yes=77,no=78,missing=78,gain=7.90424977e+11,cover=63944
+						77:leaf=14731.4521,cover=42690
+						78:leaf=12116.6592,cover=21254
+		4:[apariciones_en_dia_3_auctions<14.5] yes=9,no=10,missing=10,gain=1.80871307e+13,cover=288855
+			9:[tiempo_maximo_entre_apariciones_auctions<91681.4688] yes=19,no=20,missing=20,gain=4.0516725e+12,cover=137231
+				19:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<186996.938] yes=39,no=40,missing=40,gain=3.61507062e+12,cover=95258
+					39:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<535.283447] yes=79,no=80,missing=80,gain=1.12350305e+12,cover=29544
+						79:leaf=6071.68848,cover=2775
+						80:leaf=13473.3281,cover=26769
+					40:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<14912.4248] yes=81,no=82,missing=82,gain=1.89439096e+12,cover=65714
+						81:leaf=6180.94922,cover=31892
+						82:leaf=9941.45703,cover=33822
+				20:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1769.35583] yes=41,no=42,missing=42,gain=1.2049019e+12,cover=41973
+					41:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<112.079521] yes=83,no=84,missing=84,gain=2.27366404e+11,cover=7494
+						83:leaf=4877.44287,cover=1048
+						84:leaf=10442.9766,cover=6446
+					42:[tiempo_maximo_entre_apariciones_auctions<139800] yes=85,no=86,missing=86,gain=4.96307798e+11,cover=34479
+						85:leaf=13442.9131,cover=20153
+						86:leaf=16142.083,cover=14326
+			10:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<14173.4883] yes=21,no=22,missing=22,gain=7.6811841e+12,cover=151624
+				21:[apariciones_hora_11_a_14_auctions<0.5] yes=43,no=44,missing=44,gain=3.32415998e+12,cover=110850
+					43:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<557.270142] yes=87,no=88,missing=88,gain=1.45816971e+12,cover=54155
+						87:leaf=2164.77124,cover=11163
+						88:leaf=6654.60742,cover=42992
+					44:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<2698.10986] yes=89,no=90,missing=90,gain=6.49027125e+11,cover=56695
+						89:leaf=905.791504,cover=33399
+						90:leaf=3312.73584,cover=23296
+				22:[apariciones_hora_6_a_11_auctions<0.5] yes=45,no=46,missing=46,gain=1.24104003e+12,cover=40774
+					45:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<185789.312] yes=91,no=92,missing=92,gain=4.36257948e+11,cover=21407
+						91:leaf=13517.0762,cover=6897
+						92:leaf=10132.2344,cover=14510
+					46:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<45375.0234] yes=93,no=94,missing=94,gain=4.51053879e+11,cover=19367
+						93:leaf=6253.1499,cover=13588
+						94:leaf=9946.24902,cover=5779
+	2:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<259033.953] yes=5,no=6,missing=6,gain=4.86268144e+13,cover=703439
+		5:[tiempo_aparicion_media_hasta_fin_ventana_auctions<11956.7969] yes=11,no=12,missing=12,gain=9.45724955e+12,cover=322337
+			11:[tiempo_aparicion_media_hasta_fin_ventana_auctions<511.974854] yes=23,no=24,missing=24,gain=9.1509647e+11,cover=179752
+				23:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<171476.688] yes=47,no=48,missing=48,gain=3.14472137e+11,cover=126000
+					47:[apariciones_en_source_7_auctions<5.5] yes=95,no=96,missing=96,gain=3.28095236e+11,cover=65557
+						95:leaf=24502.4277,cover=7778
+						96:leaf=22066.1953,cover=57779
+					48:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<209380.562] yes=97,no=98,missing=98,gain=1.89934862e+11,cover=60443
+						97:leaf=24105.0156,cover=29850
+						98:leaf=22849.5059,cover=30593
+				24:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<166720.891] yes=49,no=50,missing=50,gain=1.79247776e+11,cover=53752
+					49:[apariciones_hora_2_a_6_auctions<9.5] yes=99,no=100,missing=100,gain=1.00252254e+11,cover=29054
+						99:leaf=20815.5039,cover=25417
+						100:leaf=18817.6016,cover=3637
+					50:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<215284.312] yes=101,no=102,missing=102,gain=1.38881794e+11,cover=24698
+						101:leaf=22716.9746,cover=12133
+						102:leaf=21033.6836,cover=12565
+			12:[cantidad_apariciones_en_ventana_auctions<8.5] yes=25,no=26,missing=26,gain=1.12739536e+12,cover=142585
+				25:[apariciones_en_source_5_auctions<5.5] yes=51,no=52,missing=52,gain=3.28598553e+11,cover=65138
+					51:[apariciones_en_dia_1_events<41.5] yes=103,no=104,missing=104,gain=4.55763558e+10,cover=4049
+						103:leaf=12989.2773,cover=412
+						104:leaf=16963.252,cover=3637
+					52:[apariciones_en_source_1_auctions<1.5] yes=105,no=106,missing=105,gain=3.49301637e+11,cover=61089
+						105:leaf=20556.75,cover=35081
+						106:leaf=18856.3652,cover=26008
+				26:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<160965.891] yes=53,no=54,missing=54,gain=7.35093719e+11,cover=77447
+					53:[tiempo_maximo_entre_apariciones_auctions<86597.2656] yes=107,no=108,missing=108,gain=6.73403896e+11,cover=64727
+						107:leaf=16563.3086,cover=50167
+						108:leaf=19271.7695,cover=14560
+					54:[tiempo_medio_entre_apariciones_auctions<3882.68872] yes=109,no=110,missing=110,gain=1.11266497e+11,cover=12720
+						109:leaf=20827.4844,cover=8494
+						110:leaf=18597.6758,cover=4226
+		6:[cantidad_instalaciones_installs<2.5] yes=13,no=14,missing=14,gain=1.13494511e+12,cover=381102
+			13:[tiempo_ultima_instalacion_hasta_fin_ventana<82806.625] yes=27,no=28,missing=28,gain=2.31324254e+11,cover=48019
+				27:[cantidad_evento_15_events<0.5] yes=55,no=56,missing=56,gain=1.58922179e+11,cover=17076
+					55:[cantidad_eventos_top_events<4.5] yes=111,no=112,missing=112,gain=3.91496335e+10,cover=7961
+						111:leaf=24982.9043,cover=7925
+						112:leaf=37117.4414,cover=36
+					56:[tiempo_ultima_instalacion_hasta_fin_ventana<2698.66455] yes=113,no=114,missing=114,gain=1.40920226e+11,cover=9115
+						113:leaf=17606.1777,cover=599
+						114:leaf=23239.2422,cover=8516
+				28:[cantidad_evento_15_events<11.5] yes=57,no=58,missing=57,gain=3.67756575e+10,cover=30943
+					57:[tiempo_desde_hora_mas_frecuente_hasta_00_events<45000] yes=115,no=116,missing=115,gain=3.36886497e+10,cover=30039
+						115:leaf=25274.0391,cover=19091
+						116:leaf=26102.8906,cover=10948
+					58:[apariciones_hora_6_a_11_events<29] yes=117,no=118,missing=118,gain=4.71264133e+10,cover=904
+						117:leaf=23493.9023,cover=888
+						118:leaf=4046.90576,cover=16
+			14:[apariciones_hora_14_a_18_events<2.5] yes=29,no=30,missing=30,gain=2.78099132e+11,cover=333083
+				29:[tiempo_desde_hora_mas_frecuente_hasta_00_events<73800] yes=59,no=60,missing=60,gain=4.89894707e+10,cover=28967
+					59:[apariciones_hora_18_a_23_events<0.5] yes=119,no=120,missing=120,gain=5.56248596e+10,cover=24073
+						119:leaf=25477.8496,cover=14713
+						120:leaf=26621.7891,cover=9360
+					60:[cantidad_evento_15_events<9.5] yes=121,no=122,missing=122,gain=4.99289948e+10,cover=4894
+						121:leaf=24930.7109,cover=4609
+						122:leaf=19933.9629,cover=285
+				30:[apariciones_en_dia_1_events<82.5] yes=61,no=62,missing=61,gain=8.40202977e+10,cover=304116
+					61:[apariciones_en_dia_3_events<3.5] yes=123,no=124,missing=124,gain=3.90573588e+10,cover=303911
+						123:leaf=29284.9297,cover=934
+						124:leaf=26852.293,cover=302977
+					62:[apariciones_en_dia_3_events<247] yes=125,no=126,missing=125,gain=4.09271665e+10,cover=205
+						125:leaf=20538.2324,cover=197
+						126:leaf=-4492.5957,cover=8
+booster[2]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<74671.2969] yes=1,no=2,missing=2,gain=1.61341386e+14,cover=1304437
+	1:[cantidad_apariciones_en_ventana_auctions<16.5] yes=3,no=4,missing=4,gain=3.17667022e+13,cover=582659
+		3:[apariciones_hora_23_a_2_auctions<0.5] yes=7,no=8,missing=8,gain=5.01846796e+12,cover=262493
+			7:[apariciones_hora_2_a_6_auctions<0.5] yes=15,no=16,missing=16,gain=1.51739852e+12,cover=161826
+				15:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<10071.9883] yes=31,no=32,missing=32,gain=4.89383002e+11,cover=87849
+					31:[tiempo_maximo_entre_apariciones_auctions<86664.6875] yes=63,no=64,missing=64,gain=1.23318829e+11,cover=19123
+						63:leaf=10178.6475,cover=9725
+						64:leaf=11963.5947,cover=9398
+					32:[tiempo_maximo_entre_apariciones_auctions<149376.375] yes=65,no=66,missing=66,gain=2.91940336e+11,cover=68726
+						65:leaf=12514.4668,cover=43757
+						66:leaf=14017.8857,cover=24969
+				16:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<62806.8359] yes=33,no=34,missing=34,gain=9.84210211e+11,cover=73977
+					33:[tiempo_maximo_entre_apariciones_auctions<116721.453] yes=67,no=68,missing=68,gain=5.29012883e+11,cover=46309
+						67:leaf=8571.13574,cover=29018
+						68:leaf=11018.3965,cover=17291
+					34:[apariciones_en_dia_2_auctions<14.5] yes=69,no=70,missing=70,gain=3.09118108e+11,cover=27668
+						69:leaf=10623.2021,cover=10480
+						70:leaf=13039.4922,cover=17188
+			8:[apariciones_hora_18_a_23_auctions<0.5] yes=17,no=18,missing=18,gain=1.35551097e+12,cover=100667
+				17:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<350.776123] yes=35,no=36,missing=36,gain=5.12692847e+11,cover=35870
+					35:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<29.4951668] yes=71,no=72,missing=72,gain=1.14650055e+11,cover=2520
+						71:leaf=-40.3361244,cover=399
+						72:leaf=6426.25977,cover=2121
+					36:[apariciones_hora_6_a_11_auctions<0.5] yes=73,no=74,missing=74,gain=2.59317039e+11,cover=33350
+						73:leaf=11097.1133,cover=26131
+						74:leaf=8723.25879,cover=7219
+				18:[apariciones_hora_2_a_6_auctions<0.5] yes=37,no=38,missing=38,gain=9.3255526e+11,cover=64797
+					37:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<3222.07031] yes=75,no=76,missing=76,gain=8.18893816e+11,cover=28728
+						75:leaf=6102.95557,cover=8342
+						76:leaf=10220.9736,cover=20386
+					38:[apariciones_en_dia_3_auctions<3.5] yes=77,no=78,missing=78,gain=4.29586907e+11,cover=36069
+						77:leaf=7579.0542,cover=17755
+						78:leaf=5162.13135,cover=18314
+		4:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<4701.98047] yes=9,no=10,missing=10,gain=9.5539702e+12,cover=320166
+			9:[apariciones_hora_2_a_6_auctions<1.5] yes=19,no=20,missing=20,gain=2.30321711e+12,cover=105208
+				19:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<431.265381] yes=39,no=40,missing=40,gain=6.65008472e+11,cover=20694
+					39:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<94.3802338] yes=79,no=80,missing=80,gain=9.27903252e+10,cover=4697
+						79:leaf=447.183624,cover=2132
+						80:leaf=3571.73022,cover=2565
+					40:[apariciones_hora_18_a_23_auctions<0.5] yes=81,no=82,missing=82,gain=4.01798595e+11,cover=15997
+						81:leaf=12352.5186,cover=1496
+						82:leaf=6326.87598,cover=14501
+				20:[apariciones_hora_14_a_18_auctions<0.5] yes=41,no=42,missing=42,gain=1.24091263e+12,cover=84514
+					41:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<305.614807] yes=83,no=84,missing=84,gain=2.28314841e+11,cover=11929
+						83:leaf=1759.85327,cover=2174
+						84:leaf=5727.21729,cover=9755
+					42:[apariciones_en_dia_3_auctions<55.5] yes=85,no=86,missing=86,gain=5.23112088e+11,cover=72585
+						85:leaf=2050.65259,cover=37931
+						86:leaf=169.545471,cover=34654
+			10:[apariciones_hora_2_a_6_auctions<0.5] yes=21,no=22,missing=22,gain=5.12740242e+12,cover=214958
+				21:[apariciones_en_dia_3_auctions<44.5] yes=43,no=44,missing=44,gain=3.52292176e+11,cover=41628
+					43:[tiempo_maximo_entre_apariciones_auctions<129227.5] yes=87,no=88,missing=88,gain=2.90130493e+11,cover=33712
+						87:leaf=10066.29,cover=27424
+						88:leaf=12706.1768,cover=6288
+					44:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<20823.457] yes=89,no=90,missing=90,gain=1.41702463e+11,cover=7916
+						89:leaf=6969.40576,cover=5473
+						90:leaf=10180.5,cover=2443
+				22:[tiempo_maximo_entre_apariciones_auctions<59591.4727] yes=45,no=46,missing=46,gain=3.23741549e+12,cover=173330
+					45:[tiempo_aparicion_media_hasta_fin_ventana_auctions<75187.6797] yes=91,no=92,missing=92,gain=2.35720409e+12,cover=74123
+						91:leaf=6667.03027,cover=26095
+						92:leaf=2534.44116,cover=48028
+					46:[tiempo_maximo_entre_apariciones_auctions<89995.0625] yes=93,no=94,missing=94,gain=1.0052069e+12,cover=99207
+						93:leaf=6155.0249,cover=60472
+						94:leaf=8439.15039,cover=38735
+	2:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<250968.375] yes=5,no=6,missing=6,gain=2.22355826e+13,cover=721778
+		5:[tiempo_aparicion_media_hasta_fin_ventana_auctions<19063.9375] yes=11,no=12,missing=12,gain=4.26503674e+12,cover=329972
+			11:[tiempo_aparicion_media_hasta_fin_ventana_auctions<511.485718] yes=23,no=24,missing=24,gain=5.19925924e+11,cover=191509
+				23:[apariciones_en_source_3_auctions<6.5] yes=47,no=48,missing=48,gain=2.08003924e+11,cover=120327
+					47:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<98742.0703] yes=95,no=96,missing=96,gain=9.42564966e+10,cover=17412
+						95:leaf=12139.4229,cover=3841
+						96:leaf=14118.9707,cover=13571
+					48:[apariciones_en_source_1_auctions<289.5] yes=97,no=98,missing=98,gain=1.49854093e+11,cover=102915
+						97:leaf=14569.085,cover=51151
+						98:leaf=15418.9053,cover=51764
+				24:[tiempo_ultima_instalacion_hasta_fin_ventana<4803.36426] yes=49,no=50,missing=50,gain=1.47530449e+11,cover=71182
+					49:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<114193.867] yes=99,no=100,missing=100,gain=3.44116183e+10,cover=259
+						99:leaf=10384.2598,cover=98
+						100:leaf=2074.78101,cover=161
+					50:[tiempo_minimo_entre_apariciones_auctions<0.321004987] yes=101,no=102,missing=102,gain=1.38093265e+11,cover=70923
+						101:leaf=12904.833,cover=21811
+						102:leaf=13968.9561,cover=49112
+			12:[apariciones_hora_6_a_11_auctions<0.5] yes=25,no=26,missing=26,gain=8.64966148e+11,cover=138463
+				25:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<86139.125] yes=51,no=52,missing=52,gain=6.48632336e+11,cover=106743
+					51:[apariciones_en_dia_2_auctions<2.5] yes=103,no=104,missing=103,gain=2.77499347e+11,cover=31783
+						103:leaf=11978.2285,cover=16208
+						104:leaf=9905.85059,cover=15575
+					52:[apariciones_hora_2_a_6_auctions<0.5] yes=105,no=106,missing=106,gain=3.51751111e+11,cover=74960
+						105:leaf=13842.083,cover=27754
+						106:leaf=12268.9668,cover=47206
+				26:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<146952.188] yes=53,no=54,missing=54,gain=2.7097301e+11,cover=31720
+					53:[tiempo_maximo_entre_apariciones_auctions<109614.773] yes=107,no=108,missing=108,gain=2.37496173e+11,cover=24227
+						107:leaf=9255.8623,cover=21634
+						108:leaf=12805.5547,cover=2593
+					54:[apariciones_en_source_0_auctions<4.5] yes=109,no=110,missing=110,gain=6.93360394e+10,cover=7493
+						109:leaf=14497.127,cover=1206
+						110:leaf=11576.3125,cover=6287
+		6:[cantidad_instalaciones_installs<2.5] yes=13,no=14,missing=14,gain=4.91169776e+11,cover=391806
+			13:[tiempo_ultima_instalacion_hasta_fin_ventana<84414.2344] yes=27,no=28,missing=28,gain=1.0919451e+11,cover=49612
+				27:[apariciones_hora_23_a_2_auctions<4.5] yes=55,no=56,missing=56,gain=6.79456276e+10,cover=17992
+					55:[promedio_eventos_por_dia_events<27.75] yes=111,no=112,missing=111,gain=2.80993792e+10,cover=354
+						111:leaf=11301.1299,cover=337
+						112:leaf=-3120.18579,cover=17
+					56:[cantidad_evento_15_events<0.5] yes=113,no=114,missing=114,gain=6.36401746e+10,cover=17638
+						113:leaf=16282.7959,cover=8232
+						114:leaf=14929.7246,cover=9406
+				28:[apariciones_en_source_6_auctions<88] yes=57,no=58,missing=58,gain=3.78997309e+10,cover=31620
+					57:[cantidad_evento_23_events<1.5] yes=115,no=116,missing=115,gain=1.7825964e+10,cover=73
+						115:leaf=10059.7822,cover=67
+						116:leaf=-8783.55371,cover=6
+					58:[apariciones_hora_23_a_2_events<53.5] yes=117,no=118,missing=117,gain=3.24806902e+10,cover=31547
+						117:leaf=16547.9199,cover=31394
+						118:leaf=21816.498,cover=153
+			14:[apariciones_en_dia_1_auctions<14.5] yes=29,no=30,missing=30,gain=2.81991447e+11,cover=342194
+				29:[apariciones_en_source_5_auctions<16] yes=59,no=60,missing=60,gain=5.22746593e+10,cover=8464
+					59:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<253068.766] yes=119,no=120,missing=120,gain=3.09054996e+10,cover=226
+						119:leaf=3557.91675,cover=66
+						120:leaf=12620.2695,cover=160
+					60:[tiempo_maximo_entre_apariciones_auctions<1099.19629] yes=121,no=122,missing=121,gain=3.19920538e+10,cover=8238
+						121:leaf=15695.5547,cover=7551
+						122:leaf=13127.4375,cover=687
+				30:[cantidad_realizaciones_evento_mas_frecuente_events<57.5] yes=61,no=62,missing=62,gain=1.39385111e+11,cover=333730
+					61:[cantidad_evento_23_events<3.5] yes=123,no=124,missing=124,gain=5.8678313e+10,cover=31949
+						123:leaf=16850.7129,cover=28789
+						124:leaf=15231.6855,cover=3160
+					62:[apariciones_en_source_7_auctions<19] yes=125,no=126,missing=126,gain=5.52305951e+10,cover=301781
+						125:leaf=32560.1953,cover=30
+						126:leaf=17465.084,cover=301751
+booster[3]:
+0:[apariciones_en_dia_3_auctions<2.5] yes=1,no=2,missing=1,gain=7.0097423e+13,cover=1304437
+	1:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<167985.062] yes=3,no=4,missing=4,gain=1.46191292e+13,cover=845048
+		3:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<201505.812] yes=7,no=8,missing=8,gain=2.43128703e+12,cover=356325
+			7:[apariciones_en_source_7_auctions<4.5] yes=15,no=16,missing=16,gain=4.24404845e+11,cover=221450
+				15:[apariciones_hora_2_a_6_auctions<0.5] yes=31,no=32,missing=32,gain=2.07982952e+11,cover=29180
+					31:[apariciones_hora_6_a_11_auctions<0.5] yes=63,no=64,missing=64,gain=9.7918124e+10,cover=17543
+						63:leaf=11089.2441,cover=13703
+						64:leaf=9080.26953,cover=3840
+					32:[cantidad_apariciones_en_ventana_auctions<4.5] yes=65,no=66,missing=66,gain=7.71154248e+10,cover=11637
+						65:leaf=9392.67676,cover=7632
+						66:leaf=7488.79053,cover=4005
+				16:[tiempo_minimo_entre_apariciones_auctions<91.5684052] yes=33,no=34,missing=33,gain=3.62849239e+11,cover=192270
+					33:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<622.25293] yes=67,no=68,missing=68,gain=2.04690424e+11,cover=145613
+						67:leaf=4116.77686,cover=1173
+						68:leaf=8764.14258,cover=144440
+					34:[apariciones_en_source_1_auctions<3.5] yes=69,no=70,missing=69,gain=3.21885569e+11,cover=46657
+						69:leaf=7862.98975,cover=43234
+						70:leaf=4335.06396,cover=3423
+			8:[tiempo_maximo_entre_apariciones_auctions<120932.547] yes=17,no=18,missing=18,gain=5.79925443e+11,cover=134875
+				17:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<106260.219] yes=35,no=36,missing=36,gain=7.52961454e+11,cover=95631
+					35:[apariciones_en_source_1_auctions<1.5] yes=71,no=72,missing=71,gain=2.55662752e+11,cover=60178
+						71:leaf=6561.15381,cover=20019
+						72:leaf=5029.3208,cover=40159
+					36:[tiempo_maximo_entre_apariciones_auctions<77390.0312] yes=73,no=74,missing=74,gain=2.32843641e+11,cover=35453
+						73:leaf=6854.06006,cover=21613
+						74:leaf=8694.50879,cover=13840
+				18:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<83632.3594] yes=37,no=38,missing=38,gain=2.73829331e+11,cover=39244
+					37:[tiempo_maximo_entre_apariciones_auctions<156740.125] yes=75,no=76,missing=76,gain=1.52104337e+11,cover=29751
+						75:leaf=6451.12451,cover=12719
+						76:leaf=8053.06641,cover=17032
+					38:[apariciones_en_source_7_auctions<1.5] yes=77,no=78,missing=77,gain=9.5385813e+10,cover=9493
+						77:leaf=9156.55078,cover=8542
+						78:leaf=12864.3369,cover=951
+		4:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<169898.953] yes=9,no=10,missing=9,gain=1.59594945e+12,cover=488723
+			9:[tiempo_ultima_instalacion_hasta_fin_ventana<168446.266] yes=19,no=20,missing=20,gain=2.08842785e+11,cover=382721
+				19:[apariciones_hora_2_a_6_events<5.5] yes=39,no=40,missing=40,gain=5.88943196e+10,cover=33153
+					39:[apariciones_en_dia_2_events<3.5] yes=79,no=80,missing=79,gain=5.83826145e+10,cover=20388
+						79:leaf=10448.1865,cover=16454
+						80:leaf=11960.9492,cover=3934
+					40:[tiempo_ultima_instalacion_hasta_fin_ventana<4701.61523] yes=81,no=82,missing=82,gain=6.946082e+10,cover=12765
+						81:leaf=6373.2793,cover=702
+						82:leaf=9972.30469,cover=12063
+				20:[apariciones_hora_11_a_14_events<1.5] yes=41,no=42,missing=42,gain=8.86172549e+10,cover=349568
+					41:[apariciones_en_source_3_auctions<1.5] yes=83,no=84,missing=84,gain=6.74444083e+10,cover=42746
+						83:leaf=-2822.83374,cover=44
+						84:leaf=10829.6504,cover=42702
+					42:[tiempo_minimo_entre_apariciones_auctions<16.5132694] yes=85,no=86,missing=85,gain=4.68084326e+10,cover=306822
+						85:leaf=11353.3838,cover=306658
+						86:leaf=17315.0176,cover=164
+			10:[cantidad_evento_7_events<0.5] yes=21,no=22,missing=21,gain=2.03046257e+11,cover=106002
+				21:[apariciones_en_source_5_auctions<3.5] yes=43,no=44,missing=44,gain=1.68619409e+11,cover=100542
+					43:[cantidad_realizaciones_evento_mas_frecuente_events<7.5] yes=87,no=88,missing=88,gain=7.40614472e+10,cover=2902
+						87:leaf=1948.46313,cover=301
+						88:leaf=7755.125,cover=2601
+					44:[apariciones_en_source_1_auctions<2.5] yes=89,no=90,missing=89,gain=1.59702319e+11,cover=97640
+						89:leaf=10172.5605,cover=66674
+						90:leaf=9208.31055,cover=30966
+				22:[promedio_eventos_por_dia_events<15.583334] yes=45,no=46,missing=46,gain=7.65491937e+10,cover=5460
+					45:[cantidad_realizaciones_evento_mas_frecuente_events<2.5] yes=91,no=92,missing=92,gain=5.82060605e+10,cover=4923
+						91:leaf=9514.21191,cover=1022
+						92:leaf=6537.55957,cover=3901
+					46:[apariciones_en_source_7_auctions<1.5] yes=93,no=94,missing=94,gain=5.31725681e+10,cover=537
+						93:leaf=21029.6836,cover=64
+						94:leaf=10245.9746,cover=473
+	2:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<212070.875] yes=5,no=6,missing=6,gain=9.55329072e+12,cover=459389
+		5:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<18221.0273] yes=11,no=12,missing=12,gain=3.93312888e+12,cover=225633
+			11:[apariciones_hora_14_a_18_auctions<0.5] yes=23,no=24,missing=24,gain=1.83135266e+12,cover=121280
+				23:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1010.80212] yes=47,no=48,missing=48,gain=9.79267224e+11,cover=52589
+					47:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<83.1928711] yes=95,no=96,missing=96,gain=2.00252424e+11,cover=7744
+						95:leaf=-749.883362,cover=1828
+						96:leaf=3440.86157,cover=5916
+					48:[apariciones_hora_6_a_11_auctions<0.5] yes=97,no=98,missing=98,gain=4.55906165e+11,cover=44845
+						97:leaf=7180.47559,cover=38181
+						98:leaf=4042.0022,cover=6664
+				24:[tiempo_maximo_entre_apariciones_auctions<55742.9688] yes=49,no=50,missing=50,gain=1.01406632e+12,cover=68691
+					49:[tiempo_aparicion_media_hasta_fin_ventana_auctions<19485.4414] yes=99,no=100,missing=100,gain=4.43602305e+11,cover=29434
+						99:leaf=4406.68994,cover=6246
+						100:leaf=1083.61353,cover=23188
+					50:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<2036.86011] yes=101,no=102,missing=102,gain=2.92636066e+11,cover=39257
+						101:leaf=2702.82812,cover=8608
+						102:leaf=5012.94189,cover=30649
+			12:[apariciones_hora_6_a_11_auctions<0.5] yes=25,no=26,missing=26,gain=5.70010108e+11,cover=104353
+				25:[apariciones_hora_2_a_6_auctions<0.5] yes=51,no=52,missing=52,gain=2.95853621e+11,cover=80320
+					51:[cantidad_apariciones_en_ventana_auctions<27.5] yes=103,no=104,missing=104,gain=9.20586813e+10,cover=32501
+						103:leaf=9056.8584,cover=24738
+						104:leaf=7670.77881,cover=7763
+					52:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<65086.9219] yes=105,no=106,missing=106,gain=3.87790668e+11,cover=47819
+						105:leaf=6231.55322,cover=21050
+						106:leaf=8240.4707,cover=26769
+				26:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<45628.3125] yes=53,no=54,missing=54,gain=4.65074389e+11,cover=24033
+					53:[tiempo_maximo_entre_apariciones_auctions<94974.9062] yes=107,no=108,missing=108,gain=1.09410255e+11,cover=10272
+						107:leaf=3764.89795,cover=9056
+						108:leaf=7301.71631,cover=1216
+					54:[tiempo_maximo_entre_apariciones_auctions<109290.758] yes=109,no=110,missing=110,gain=9.84591892e+10,cover=13761
+						109:leaf=7072.57568,cover=13018
+						110:leaf=11221.4883,cover=743
+		6:[tiempo_maximo_entre_apariciones_auctions<77923.0938] yes=13,no=14,missing=14,gain=4.14530929e+12,cover=233756
+			13:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<19596.2305] yes=27,no=28,missing=28,gain=1.58996732e+12,cover=134636
+				27:[tiempo_maximo_entre_apariciones_auctions<50533.7812] yes=55,no=56,missing=56,gain=5.23200004e+11,cover=97652
+					55:[tiempo_maximo_entre_apariciones_auctions<39434.3398] yes=111,no=112,missing=112,gain=6.438255e+10,cover=51460
+						111:leaf=-417.775269,cover=29305
+						112:leaf=372.851715,cover=22155
+					56:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<2513.91064] yes=113,no=114,missing=114,gain=2.5425648e+11,cover=46192
+						113:leaf=299.151123,cover=13986
+						114:leaf=2086.36304,cover=32206
+				28:[tiempo_maximo_entre_apariciones_auctions<51692.8125] yes=57,no=58,missing=58,gain=2.70389477e+11,cover=36984
+					57:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<68758.4844] yes=115,no=116,missing=116,gain=8.25572721e+10,cover=14471
+						115:leaf=1820.70837,cover=11959
+						116:leaf=4028.03882,cover=2512
+					58:[apariciones_hora_6_a_11_auctions<0.5] yes=117,no=118,missing=118,gain=1.15976438e+11,cover=22513
+						117:leaf=5054.20654,cover=9732
+						118:leaf=3449.74731,cover=12781
+			14:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<12083.8359] yes=29,no=30,missing=30,gain=1.00508736e+12,cover=99120
+				29:[apariciones_hora_14_a_18_auctions<0.5] yes=59,no=60,missing=60,gain=4.76896035e+11,cover=42445
+					59:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1700.00146] yes=119,no=120,missing=120,gain=1.72688671e+11,cover=15634
+						119:leaf=2674.63818,cover=3995
+						120:leaf=5342.70215,cover=11639
+					60:[apariciones_en_source_3_auctions<12.5] yes=121,no=122,missing=121,gain=1.83164862e+11,cover=26811
+						121:leaf=2638.74023,cover=22327
+						122:leaf=187.399338,cover=4484
+				30:[tiempo_maximo_entre_apariciones_auctions<131498.062] yes=61,no=62,missing=62,gain=7.9258085e+11,cover=56675
+					61:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<58475.3828] yes=123,no=124,missing=124,gain=1.75452979e+11,cover=36874
+						123:leaf=3886.28345,cover=24842
+						124:leaf=5515.31006,cover=12032
+					62:[tiempo_maximo_entre_apariciones_auctions<185017.219] yes=125,no=126,missing=126,gain=3.11171744e+11,cover=19801
+						125:leaf=6532.58838,cover=16415
+						126:leaf=10219.6826,cover=3386
+booster[4]:
+0:[tiempo_aparicion_media_hasta_fin_ventana_auctions<34099.9141] yes=1,no=2,missing=1,gain=3.03216638e+13,cover=1304437
+	1:[tiempo_aparicion_media_hasta_fin_ventana_auctions<34019.5781] yes=3,no=4,missing=4,gain=4.20393412e+12,cover=757958
+		3:[apariciones_en_dia_3_auctions<2.5] yes=7,no=8,missing=7,gain=1.03496968e+12,cover=376716
+			7:[tiempo_ultima_instalacion_hasta_fin_ventana<12814.8682] yes=15,no=16,missing=16,gain=2.63033192e+11,cover=287832
+				15:[apariciones_en_dia_1_events<42] yes=31,no=32,missing=31,gain=5.44911196e+10,cover=3535
+					31:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<4779.79443] yes=63,no=64,missing=64,gain=5.29817272e+10,cover=3528
+						63:leaf=-2067.26318,cover=245
+						64:leaf=3261.52783,cover=3283
+					32:[apariciones_en_source_1_auctions<53.5] yes=65,no=66,missing=66,gain=4.64677274e+09,cover=7
+						65:leaf=10219.8135,cover=2
+						66:leaf=37328.1562,cover=5
+				16:[apariciones_en_source_3_auctions<709] yes=33,no=34,missing=34,gain=2.20846883e+11,cover=284297
+					33:[tiempo_maximo_entre_apariciones_auctions<8737.84961] yes=67,no=68,missing=68,gain=1.3362738e+11,cover=55420
+						67:leaf=6141.41455,cover=18370
+						68:leaf=4985.90967,cover=37050
+					34:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<16266.5176] yes=69,no=70,missing=70,gain=2.13825618e+11,cover=228877
+						69:leaf=4718.0459,cover=12143
+						70:leaf=6228.35059,cover=216734
+			8:[tiempo_maximo_entre_apariciones_auctions<335.076813] yes=17,no=18,missing=18,gain=4.85704598e+11,cover=88884
+				17:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<634.403748] yes=35,no=36,missing=36,gain=1.01274092e+11,cover=21339
+					35:[tiempo_aparicion_media_hasta_fin_ventana_auctions<83.6908264] yes=71,no=72,missing=72,gain=3.42324122e+10,cover=450
+						71:leaf=3192.33252,cover=283
+						72:leaf=-3111.13672,cover=167
+					36:[tiempo_medio_entre_apariciones_auctions<91.1970062] yes=73,no=74,missing=74,gain=7.6700713e+10,cover=20889
+						73:leaf=6378.37256,cover=18894
+						74:leaf=4092.41089,cover=1995
+				18:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<70959.0078] yes=37,no=38,missing=38,gain=4.68128367e+11,cover=67545
+					37:[apariciones_hora_23_a_2_auctions<0.5] yes=75,no=76,missing=76,gain=3.88076667e+11,cover=29617
+						75:leaf=3810.92603,cover=22367
+						76:leaf=864.177185,cover=7250
+					38:[tiempo_aparicion_media_hasta_fin_ventana_auctions<7624.53467] yes=77,no=78,missing=78,gain=1.99748485e+11,cover=37928
+						77:leaf=6471.36035,cover=8245
+						78:leaf=4523.15186,cover=29683
+		4:[tiempo_ultima_instalacion_hasta_fin_ventana<183364.797] yes=9,no=10,missing=10,gain=8.93386752e+10,cover=381242
+			9:[cantidad_eventos_con_wifi_events<2.5] yes=19,no=20,missing=19,gain=5.37730744e+10,cover=36974
+				19:[tiempo_ultima_instalacion_hasta_fin_ventana<175890.203] yes=39,no=40,missing=40,gain=4.20583834e+10,cover=27292
+					39:[tiempo_aparicion_media_hasta_fin_ventana_auctions<34093.25] yes=79,no=80,missing=79,gain=3.63174298e+10,cover=25921
+						79:leaf=6609.31787,cover=25918
+						80:leaf=40125.3828,cover=3
+					40:[cantidad_eventos_top_events<1.5] yes=81,no=82,missing=81,gain=2.67603149e+10,cover=1371
+						81:leaf=5179.71582,cover=1211
+						82:leaf=361.438873,cover=160
+				20:[tiempo_desde_hora_mas_frecuente_hasta_00_events<9000] yes=41,no=42,missing=42,gain=4.55768801e+10,cover=9682
+					41:[apariciones_hora_18_a_23_events<12.5] yes=83,no=84,missing=84,gain=4.49091994e+10,cover=1684
+						83:leaf=8826.18945,cover=1638
+						84:leaf=19882.1387,cover=46
+					42:[tiempo_desde_hora_mas_frecuente_hasta_00_events<19800] yes=85,no=86,missing=86,gain=4.89753149e+10,cover=7998
+						85:leaf=5339.89404,cover=1532
+						86:leaf=7549.47168,cover=6466
+			10:[tiempo_desde_hora_mas_frecuente_hasta_00_events<45000] yes=21,no=22,missing=22,gain=4.74459668e+10,cover=344268
+				21:[apariciones_hora_11_a_14_events<103] yes=43,no=44,missing=44,gain=3.68805151e+10,cover=20455
+					43:[cantidad_evento_0_events<17.5] yes=87,no=88,missing=88,gain=4.84809114e+10,cover=20437
+						87:leaf=6849.94238,cover=20307
+						88:leaf=68.8333588,cover=130
+					44:[apariciones_en_dia_2_events<71.5] yes=89,no=90,missing=90,gain=4.89984737e+10,cover=18
+						89:leaf=-6287.76025,cover=5
+						90:leaf=32977.2305,cover=13
+				22:[cantidad_realizaciones_evento_mas_frecuente_events<937] yes=45,no=46,missing=45,gain=5.17073797e+10,cover=323813
+					45:[cantidad_instalaciones_installs<2.5] yes=91,no=92,missing=91,gain=4.67748782e+10,cover=323807
+						91:leaf=7371.85254,cover=323697
+						92:leaf=14591.3672,cover=110
+					46:leaf=-22833.0898,cover=6
+	2:[apariciones_en_dia_3_auctions<5.5] yes=5,no=6,missing=5,gain=6.17499696e+12,cover=546479
+		5:[apariciones_hora_11_a_14_auctions<0.5] yes=11,no=12,missing=12,gain=9.88563898e+11,cover=260205
+			11:[apariciones_hora_6_a_11_auctions<0.5] yes=23,no=24,missing=24,gain=6.08702562e+11,cover=199719
+				23:[apariciones_hora_2_a_6_auctions<0.5] yes=47,no=48,missing=48,gain=3.48064317e+11,cover=148072
+					47:[tiempo_minimo_entre_apariciones_auctions<267.533722] yes=93,no=94,missing=94,gain=1.38164568e+11,cover=52182
+						93:leaf=6147.99316,cover=34714
+						94:leaf=4939.99658,cover=17468
+					48:[apariciones_hora_23_a_2_auctions<0.5] yes=95,no=96,missing=96,gain=1.56556591e+11,cover=95890
+						95:leaf=5129.91699,cover=41722
+						96:leaf=4227.36523,cover=54168
+				24:[tiempo_maximo_entre_apariciones_auctions<107197.602] yes=49,no=50,missing=50,gain=2.16241013e+11,cover=51647
+					49:[apariciones_hora_14_a_18_auctions<0.5] yes=97,no=98,missing=98,gain=9.59158682e+10,cover=37942
+						97:leaf=3781.00171,cover=17831
+						98:leaf=2665.56567,cover=20111
+					50:[apariciones_hora_18_a_23_auctions<0.5] yes=99,no=100,missing=100,gain=6.47042171e+10,cover=13705
+						99:leaf=5682.06738,cover=5944
+						100:leaf=4145.41162,cover=7761
+			12:[apariciones_en_source_1_auctions<3.5] yes=25,no=26,missing=25,gain=6.08440943e+11,cover=60486
+				25:[tiempo_medio_entre_apariciones_auctions<87183.5625] yes=51,no=52,missing=52,gain=1.35496729e+11,cover=28376
+					51:[apariciones_hora_14_a_18_auctions<74.5] yes=101,no=102,missing=102,gain=9.61124762e+10,cover=25507
+						101:leaf=3932.89624,cover=25455
+						102:leaf=18862.9551,cover=52
+					52:[apariciones_hora_11_a_14_events<0.5] yes=103,no=104,missing=103,gain=5.31766968e+10,cover=2869
+						103:leaf=6014.82764,cover=2602
+						104:leaf=11209.3428,cover=267
+				26:[apariciones_hora_14_a_18_auctions<13.5] yes=53,no=54,missing=54,gain=1.68436171e+11,cover=32110
+					53:[tiempo_minimo_entre_apariciones_auctions<41.6227188] yes=105,no=106,missing=106,gain=8.38235587e+10,cover=28102
+						105:leaf=2022.28284,cover=21688
+						106:leaf=581.900696,cover=6414
+					54:[tiempo_maximo_entre_apariciones_auctions<18870.4219] yes=107,no=108,missing=108,gain=5.15994419e+10,cover=4008
+						107:leaf=10366.6045,cover=155
+						108:leaf=3864.90991,cover=3853
+		6:[apariciones_hora_6_a_11_auctions<0.5] yes=13,no=14,missing=14,gain=2.61681526e+12,cover=286274
+			13:[apariciones_hora_23_a_2_auctions<0.5] yes=27,no=28,missing=28,gain=8.86578348e+11,cover=150163
+				27:[apariciones_hora_2_a_6_auctions<0.5] yes=55,no=56,missing=56,gain=1.9109249e+11,cover=36987
+					55:[apariciones_en_dia_1_auctions<8.5] yes=109,no=110,missing=110,gain=6.67077837e+10,cover=10789
+						109:leaf=4532.19482,cover=4042
+						110:leaf=6333.54102,cover=6747
+					56:[apariciones_hora_14_a_18_auctions<0.5] yes=111,no=112,missing=112,gain=2.11427787e+11,cover=26198
+						111:leaf=5363.42529,cover=8340
+						112:leaf=3228.46313,cover=17858
+				28:[apariciones_hora_18_a_23_auctions<1.5] yes=57,no=58,missing=58,gain=6.40320274e+11,cover=113176
+					57:[tiempo_maximo_entre_apariciones_auctions<47552.375] yes=113,no=114,missing=114,gain=1.00793319e+11,cover=18795
+						113:leaf=1628.5636,cover=1574
+						114:leaf=4555.90137,cover=17221
+					58:[apariciones_en_source_0_auctions<116.5] yes=115,no=116,missing=116,gain=5.8322636e+11,cover=94381
+						115:leaf=2845.07495,cover=52846
+						116:leaf=1092.30859,cover=41535
+			14:[apariciones_hora_18_a_23_auctions<1.5] yes=29,no=30,missing=30,gain=7.31761476e+11,cover=136111
+				29:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<238356] yes=59,no=60,missing=60,gain=2.05260063e+11,cover=19833
+					59:[tiempo_maximo_entre_apariciones_auctions<86997.8125] yes=117,no=118,missing=118,gain=1.3664256e+11,cover=10015
+						117:leaf=2905.55029,cover=6332
+						118:leaf=5587.56787,cover=3683
+					60:[tiempo_maximo_entre_apariciones_auctions<180978.578] yes=119,no=120,missing=120,gain=7.09410324e+10,cover=9818
+						119:leaf=1437.55408,cover=9385
+						120:leaf=6015.33008,cover=433
+				30:[apariciones_hora_14_a_18_auctions<0.5] yes=61,no=62,missing=62,gain=3.59787659e+11,cover=116278
+					61:[apariciones_hora_23_a_2_auctions<0.5] yes=121,no=122,missing=122,gain=1.21182454e+11,cover=17820
+						121:leaf=3397.75391,cover=4942
+						122:leaf=1358.9104,cover=12878
+					62:[apariciones_en_source_0_auctions<22.5] yes=123,no=124,missing=123,gain=1.71555258e+11,cover=98458
+						123:leaf=-54.2569733,cover=73431
+						124:leaf=1006.8147,cover=25027
+booster[5]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<71928.2969] yes=1,no=2,missing=2,gain=1.36908206e+13,cover=1304437
+	1:[apariciones_hora_2_a_6_auctions<1.5] yes=3,no=4,missing=4,gain=3.39873261e+12,cover=565170
+		3:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1675.42847] yes=7,no=8,missing=8,gain=8.45234045e+11,cover=249264
+			7:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<46.2978973] yes=15,no=16,missing=16,gain=1.41183533e+11,cover=23370
+				15:[tiempo_hasta_click_max_clicks<713.30249] yes=31,no=32,missing=31,gain=1.85371075e+10,cover=2189
+					31:[tiempo_aparicion_media_hasta_fin_ventana_auctions<23488.6914] yes=63,no=64,missing=64,gain=1.69187451e+10,cover=2187
+						63:leaf=-2991.86499,cover=853
+						64:leaf=-995.521484,cover=1334
+					32:leaf=25774.3789,cover=2
+				16:[apariciones_hora_18_a_23_auctions<1.5] yes=33,no=34,missing=34,gain=9.65644452e+10,cover=21181
+					33:[cantidad_evento_2_events<0.5] yes=65,no=66,missing=65,gain=5.50150799e+10,cover=9606
+						65:leaf=1898.2926,cover=9362
+						66:leaf=7212.86328,cover=244
+					34:[tiempo_minimo_entre_apariciones_auctions<13939.7217] yes=67,no=68,missing=68,gain=3.78430915e+10,cover=11575
+						67:leaf=490.32016,cover=11524
+						68:leaf=9953.79297,cover=51
+			8:[apariciones_hora_11_a_14_auctions<0.5] yes=17,no=18,missing=18,gain=4.56004731e+11,cover=225894
+				17:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<20495.5664] yes=35,no=36,missing=36,gain=2.51817624e+11,cover=178718
+					35:[apariciones_hora_14_a_18_auctions<0.5] yes=69,no=70,missing=70,gain=2.96971403e+11,cover=106256
+						69:leaf=3547.59692,cover=62779
+						70:leaf=2357.40576,cover=43477
+					36:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<35095.1094] yes=71,no=72,missing=72,gain=1.23910226e+11,cover=72462
+						71:leaf=4237.93311,cover=47592
+						72:leaf=3273.47363,cover=24870
+				18:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<30680.5098] yes=37,no=38,missing=38,gain=3.77789088e+11,cover=47176
+					37:[tiempo_maximo_entre_apariciones_auctions<96388.2188] yes=73,no=74,missing=74,gain=9.79675054e+10,cover=26188
+						73:leaf=813.593872,cover=17429
+						74:leaf=2248.44336,cover=8759
+					38:[tiempo_aparicion_media_hasta_fin_ventana_auctions<65760.5625] yes=75,no=76,missing=76,gain=7.51309947e+10,cover=20988
+						75:leaf=3860.66089,cover=11987
+						76:leaf=2521.92236,cover=9001
+		4:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<18246.9414] yes=9,no=10,missing=10,gain=1.55540206e+12,cover=315906
+			9:[tiempo_maximo_entre_apariciones_auctions<51484.7891] yes=19,no=20,missing=20,gain=6.93035926e+11,cover=190502
+				19:[tiempo_maximo_entre_apariciones_auctions<42453.4219] yes=39,no=40,missing=40,gain=6.9357781e+10,cover=68764
+					39:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<7187.10645] yes=77,no=78,missing=78,gain=7.28291656e+10,cover=44461
+						77:leaf=-324.170319,cover=34436
+						78:leaf=-1396.06323,cover=10025
+					40:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1008.96051] yes=79,no=80,missing=80,gain=3.8136193e+10,cover=24303
+						79:leaf=-704.611511,cover=4885
+						80:leaf=389.334015,cover=19418
+				20:[tiempo_aparicion_media_hasta_fin_ventana_auctions<97671.8594] yes=41,no=42,missing=42,gain=5.27866397e+11,cover=121738
+					41:[apariciones_en_dia_2_auctions<2354.5] yes=81,no=82,missing=82,gain=1.76294724e+11,cover=50213
+						81:leaf=1663.84119,cover=42007
+						82:leaf=3437.55908,cover=8206
+					42:[tiempo_maximo_entre_apariciones_auctions<219707.438] yes=83,no=84,missing=84,gain=1.67433929e+11,cover=71525
+						83:leaf=408.736115,cover=70502
+						84:leaf=4916.62646,cover=1023
+			10:[apariciones_hora_11_a_14_auctions<0.5] yes=21,no=22,missing=22,gain=4.87703183e+11,cover=125404
+				21:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<174833.828] yes=43,no=44,missing=44,gain=2.02979672e+11,cover=86687
+					43:[tiempo_maximo_entre_apariciones_auctions<92265.0859] yes=85,no=86,missing=86,gain=9.56531999e+10,cover=27260
+						85:leaf=3209.90674,cover=24691
+						86:leaf=5454.66113,cover=2569
+					44:[tiempo_maximo_entre_apariciones_auctions<93945.4062] yes=87,no=88,missing=88,gain=2.64087273e+11,cover=59427
+						87:leaf=1701.69849,cover=37400
+						88:leaf=3229.42749,cover=22027
+				22:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<33680.3984] yes=45,no=46,missing=46,gain=1.08856934e+11,cover=38717
+					45:[tiempo_maximo_entre_apariciones_auctions<41862.3359] yes=89,no=90,missing=90,gain=4.82957271e+10,cover=17627
+						89:leaf=-581.272766,cover=3961
+						90:leaf=806.605469,cover=13666
+					46:[tiempo_maximo_entre_apariciones_auctions<204579.094] yes=91,no=92,missing=92,gain=5.66018376e+10,cover=21090
+						91:leaf=1631.23621,cover=20979
+						92:leaf=9521.98145,cover=111
+	2:[tiempo_maximo_entre_apariciones_auctions<571.562378] yes=5,no=6,missing=5,gain=1.6592415e+12,cover=739267
+		5:[apariciones_hora_14_a_18_auctions<0.5] yes=11,no=12,missing=12,gain=2.4117248e+11,cover=513100
+			11:[apariciones_en_source_5_auctions<3.5] yes=23,no=24,missing=24,gain=1.17013742e+11,cover=110930
+				23:[tiempo_minimo_entre_apariciones_auctions<0.00635499973] yes=47,no=48,missing=47,gain=5.7175892e+10,cover=2713
+					47:[cantidad_realizaciones_evento_mas_frecuente_events<3.5] yes=93,no=94,missing=93,gain=4.68318822e+10,cover=1831
+						93:leaf=1407.85547,cover=1619
+						94:leaf=-4112.85547,cover=212
+					48:[tiempo_aparicion_media_hasta_fin_ventana_auctions<0.00495450012] yes=95,no=96,missing=96,gain=7.8359339e+10,cover=882
+						95:leaf=13810.5039,cover=92
+						96:leaf=3060.53149,cover=790
+				24:[apariciones_en_source_9_auctions<3.5] yes=49,no=50,missing=50,gain=7.98165565e+10,cover=108217
+					49:[tiempo_minimo_entre_apariciones_auctions<0.505119503] yes=97,no=98,missing=98,gain=3.27305994e+10,cover=103
+						97:leaf=-13672.7393,cover=37
+						98:leaf=-765.872192,cover=66
+					50:[apariciones_en_source_6_auctions<1.5] yes=99,no=100,missing=100,gain=7.32734423e+10,cover=108114
+						99:leaf=5668.97168,cover=4121
+						100:leaf=4162.84424,cover=103993
+			12:[tiempo_ultima_instalacion_hasta_fin_ventana<11553.7051] yes=25,no=26,missing=26,gain=6.57834639e+10,cover=402170
+				25:[tiempo_ultima_instalacion_hasta_fin_ventana<11380.6758] yes=51,no=52,missing=52,gain=5.26273741e+10,cover=4420
+					51:[tiempo_ultima_instalacion_hasta_fin_ventana<11195.6152] yes=101,no=102,missing=102,gain=5.91089828e+10,cover=4356
+						101:leaf=3394.2395,cover=4303
+						102:leaf=15056.4473,cover=53
+					52:[cantidad_evento_23_events<0.5] yes=103,no=104,missing=104,gain=2.37653361e+10,cover=64
+						103:leaf=1892.59131,cover=25
+						104:leaf=-11796.6455,cover=39
+				26:[tiempo_ultima_instalacion_hasta_fin_ventana<11619.8594] yes=53,no=54,missing=54,gain=6.74863514e+10,cover=397750
+					53:[cantidad_evento_23_events<0.5] yes=105,no=106,missing=105,gain=1.98765036e+10,cover=30
+						105:leaf=14064.1377,cover=21
+						106:leaf=34482.8555,cover=9
+					54:[apariciones_en_dia_3_events<1.5] yes=107,no=108,missing=108,gain=5.09020733e+10,cover=397720
+						107:leaf=3913.13599,cover=8722
+						108:leaf=4769.62988,cover=388998
+		6:[tiempo_maximo_entre_apariciones_auctions<91780.5938] yes=13,no=14,missing=14,gain=2.22858052e+11,cover=226167
+			13:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<160031.016] yes=27,no=28,missing=28,gain=2.21182427e+11,cover=188840
+				27:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<239831.422] yes=55,no=56,missing=56,gain=3.59065977e+11,cover=132885
+					55:[apariciones_en_source_7_auctions<1.5] yes=109,no=110,missing=109,gain=1.36466924e+11,cover=93611
+						109:leaf=3279.72314,cover=81142
+						110:leaf=4523.79541,cover=12469
+					56:[cantidad_evento_7_events<0.5] yes=111,no=112,missing=111,gain=9.69087386e+10,cover=39274
+						111:leaf=2320.22314,cover=37017
+						112:leaf=-42.0599403,cover=2257
+				28:[apariciones_en_source_3_auctions<3.5] yes=57,no=58,missing=58,gain=1.08620415e+11,cover=55955
+					57:[tiempo_medio_entre_apariciones_auctions<44.8883629] yes=113,no=114,missing=114,gain=6.0284076e+10,cover=9112
+						113:leaf=13590.9062,cover=62
+						114:leaf=2720.76758,cover=9050
+					58:[tiempo_minimo_entre_apariciones_auctions<32883.8672] yes=115,no=116,missing=116,gain=1.05693315e+11,cover=46843
+						115:leaf=3993.43506,cover=44374
+						116:leaf=6347.34619,cover=2469
+			14:[apariciones_en_source_5_auctions<722] yes=29,no=30,missing=30,gain=6.25255383e+10,cover=37327
+				29:[apariciones_en_source_5_auctions<9.5] yes=59,no=60,missing=60,gain=3.8977708e+10,cover=2496
+					59:[apariciones_en_dia_3_auctions<15.5] yes=117,no=118,missing=117,gain=3.80949299e+10,cover=2439
+						117:leaf=2499.68896,cover=2349
+						118:leaf=9804.15137,cover=90
+					60:[apariciones_en_dia_2_auctions<2.5] yes=119,no=120,missing=120,gain=1.74132961e+10,cover=57
+						119:leaf=-16255.166,cover=15
+						120:leaf=-2602.47803,cover=42
+				30:[apariciones_hora_2_a_6_auctions<39.5] yes=61,no=62,missing=62,gain=6.18675569e+10,cover=34831
+					61:[tiempo_minimo_entre_apariciones_auctions<630.766479] yes=121,no=122,missing=122,gain=7.16780339e+10,cover=33871
+						121:leaf=4736.89502,cover=25917
+						122:leaf=3534.47314,cover=7954
+					62:[apariciones_hora_2_a_6_auctions<55.5] yes=123,no=124,missing=124,gain=5.47141878e+10,cover=960
+						123:leaf=-1945.05127,cover=342
+						124:leaf=3566.78564,cover=618
+booster[6]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<23927.9609] yes=1,no=2,missing=2,gain=5.89633998e+12,cover=1304437
+	1:[apariciones_hora_6_a_11_auctions<0.5] yes=3,no=4,missing=4,gain=1.50897217e+12,cover=381263
+		3:[apariciones_hora_14_a_18_auctions<0.5] yes=7,no=8,missing=8,gain=6.7458669e+11,cover=249405
+			7:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<5655.11768] yes=15,no=16,missing=16,gain=3.86293039e+11,cover=103943
+				15:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<136.624954] yes=31,no=32,missing=32,gain=1.82407987e+11,cover=40443
+					31:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<9.93072987] yes=63,no=64,missing=64,gain=1.72319744e+10,cover=3292
+						63:leaf=-3008.58838,cover=532
+						64:leaf=-834.159302,cover=2760
+					32:[tiempo_medio_entre_apariciones_auctions<84.979454] yes=65,no=66,missing=66,gain=2.20962882e+11,cover=37151
+						65:leaf=4051.98755,cover=3822
+						66:leaf=1242.52222,cover=33329
+				16:[tiempo_maximo_entre_apariciones_auctions<138501.234] yes=33,no=34,missing=33,gain=1.4386987e+11,cover=63500
+					33:[apariciones_hora_6_a_11_events<0.5] yes=67,no=68,missing=68,gain=9.76761651e+10,cover=48876
+						67:leaf=3378.18872,cover=10059
+						68:leaf=2154.11279,cover=38817
+					34:[tiempo_minimo_entre_apariciones_auctions<247.063309] yes=69,no=70,missing=70,gain=1.37765978e+11,cover=14624
+						69:leaf=4245.35547,cover=11255
+						70:leaf=1693.43518,cover=3369
+			8:[apariciones_hora_2_a_6_auctions<0.5] yes=17,no=18,missing=18,gain=3.35907389e+11,cover=145462
+				17:[tiempo_maximo_entre_apariciones_auctions<72379.7188] yes=35,no=36,missing=36,gain=1.05794109e+11,cover=51510
+					35:[apariciones_hora_18_a_23_auctions<31.5] yes=71,no=72,missing=72,gain=5.70415022e+10,cover=19329
+						71:leaf=1307.3324,cover=16519
+						72:leaf=-398.318146,cover=2810
+					36:[apariciones_en_dia_1_auctions<4.5] yes=73,no=74,missing=74,gain=1.04434893e+11,cover=32181
+						73:leaf=1314.24426,cover=12698
+						74:leaf=2604.43701,cover=19483
+				18:[apariciones_en_source_0_auctions<203.5] yes=37,no=38,missing=38,gain=1.84622973e+11,cover=93952
+					37:[apariciones_en_dia_3_auctions<3.5] yes=75,no=76,missing=76,gain=9.52537252e+10,cover=50976
+						75:leaf=2301.77808,cover=6452
+						76:leaf=862.853821,cover=44524
+					38:[cantidad_apariciones_en_ventana_auctions<6.5] yes=77,no=78,missing=78,gain=7.48431933e+10,cover=42976
+						77:leaf=1456.42688,cover=4238
+						78:leaf=-92.6089783,cover=38738
+		4:[apariciones_hora_2_a_6_auctions<0.5] yes=9,no=10,missing=10,gain=1.29240769e+11,cover=131858
+			9:[apariciones_hora_11_a_14_auctions<0.5] yes=19,no=20,missing=20,gain=7.32675195e+10,cover=17369
+				19:[apariciones_en_source_7_auctions<10.5] yes=39,no=40,missing=40,gain=5.07334492e+10,cover=13180
+					39:[tiempo_ultima_instalacion_hasta_fin_ventana<255089.719] yes=79,no=80,missing=79,gain=5.87678515e+10,cover=2511
+						79:leaf=2602.72534,cover=2500
+						80:leaf=27167.3359,cover=11
+					40:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<23712.3008] yes=81,no=82,missing=82,gain=5.29447567e+10,cover=10669
+						81:leaf=912.401306,cover=10607
+						82:leaf=11089.5635,cover=62
+				20:[tiempo_minimo_entre_apariciones_auctions<0.643703461] yes=41,no=42,missing=42,gain=2.79294566e+10,cover=4189
+					41:[apariciones_hora_18_a_23_auctions<0.5] yes=83,no=84,missing=84,gain=4.20040499e+10,cover=2443
+						83:leaf=6043.90332,cover=150
+						84:leaf=17.2770596,cover=2293
+					42:[apariciones_hora_11_a_14_auctions<53] yes=85,no=86,missing=86,gain=3.91289405e+10,cover=1746
+						85:leaf=-1547.17554,cover=1740
+						86:leaf=24678.9199,cover=6
+			10:[apariciones_en_source_0_auctions<153.5] yes=21,no=22,missing=22,gain=8.79608873e+10,cover=114489
+				21:[tiempo_minimo_entre_apariciones_auctions<0.851993978] yes=43,no=44,missing=44,gain=7.41753242e+10,cover=48595
+					43:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<252933.25] yes=87,no=88,missing=88,gain=8.67930276e+10,cover=41313
+						87:leaf=822.402161,cover=25108
+						88:leaf=-216.597046,cover=16205
+					44:[tiempo_maximo_entre_apariciones_auctions<150017.75] yes=89,no=90,missing=90,gain=3.09197701e+10,cover=7282
+						89:leaf=-618.525269,cover=6865
+						90:leaf=-3719.28052,cover=417
+				22:[tiempo_medio_entre_apariciones_auctions<23001.7266] yes=45,no=46,missing=46,gain=8.47103508e+10,cover=65894
+					45:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<91706.5703] yes=91,no=92,missing=92,gain=4.00624927e+10,cover=61897
+						91:leaf=-2500.29224,cover=1188
+						92:leaf=-448.807526,cover=60709
+					46:[apariciones_en_source_7_auctions<5.5] yes=93,no=94,missing=93,gain=4.37047706e+10,cover=3997
+						93:leaf=739.843689,cover=3505
+						94:leaf=4259.77832,cover=492
+	2:[apariciones_hora_2_a_6_auctions<0.5] yes=5,no=6,missing=5,gain=1.67397609e+12,cover=923174
+		5:[apariciones_en_source_1_auctions<247.5] yes=11,no=12,missing=12,gain=3.00651905e+11,cover=620918
+			11:[tiempo_minimo_entre_apariciones_auctions<90.8349915] yes=23,no=24,missing=24,gain=1.94566947e+11,cover=135828
+				23:[apariciones_hora_6_a_11_auctions<0.5] yes=47,no=48,missing=48,gain=1.37829024e+11,cover=99978
+					47:[tiempo_maximo_entre_apariciones_auctions<86640.625] yes=95,no=96,missing=96,gain=1.14144313e+11,cover=79262
+						95:leaf=2750.74341,cover=66564
+						96:leaf=3896.14722,cover=12698
+					48:[tiempo_maximo_entre_apariciones_auctions<124571.781] yes=97,no=98,missing=98,gain=6.74005647e+10,cover=20716
+						97:leaf=1704.31641,cover=18551
+						98:leaf=3768.01416,cover=2165
+				24:[apariciones_en_source_1_auctions<2.5] yes=49,no=50,missing=50,gain=1.93840808e+11,cover=35850
+					49:[so_mas_usado_auctions<4] yes=99,no=100,missing=100,gain=1.21179865e+11,cover=29887
+						99:leaf=1884.18176,cover=26478
+						100:leaf=4101.24365,cover=3409
+					50:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<85184.9609] yes=101,no=102,missing=102,gain=5.32723507e+10,cover=5963
+						101:leaf=-1069.51282,cover=3053
+						102:leaf=1023.0025,cover=2910
+			12:[apariciones_en_source_7_auctions<74] yes=25,no=26,missing=26,gain=1.49946368e+11,cover=485090
+				25:[so_mas_usado_auctions<4] yes=51,no=52,missing=52,gain=9.34910362e+10,cover=22063
+					51:[tiempo_ultima_instalacion_hasta_fin_ventana<25271.1094] yes=103,no=104,missing=104,gain=7.48451267e+10,cover=19411
+						103:leaf=-1147.65735,cover=384
+						104:leaf=3785.11499,cover=19027
+					52:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<83087.0312] yes=105,no=106,missing=106,gain=7.67515034e+10,cover=2652
+						105:leaf=10914.6758,cover=328
+						106:leaf=5192.57324,cover=2324
+				26:[tiempo_minimo_entre_apariciones_auctions<8.9086647] yes=53,no=54,missing=54,gain=1.11763522e+11,cover=463027
+					53:[apariciones_en_source_6_auctions<140.5] yes=107,no=108,missing=107,gain=7.24767867e+10,cover=23534
+						107:leaf=2253.56958,cover=23502
+						108:leaf=18672.3965,cover=32
+					54:[apariciones_en_source_6_auctions<5.5] yes=109,no=110,missing=110,gain=7.40336599e+10,cover=439493
+						109:leaf=4349.03174,cover=5394
+						110:leaf=3043.79077,cover=434099
+		6:[apariciones_hora_6_a_11_auctions<0.5] yes=13,no=14,missing=14,gain=4.54637388e+11,cover=302256
+			13:[apariciones_hora_23_a_2_auctions<0.5] yes=27,no=28,missing=28,gain=1.7732993e+11,cover=219815
+				27:[apariciones_en_source_5_auctions<177] yes=55,no=56,missing=56,gain=9.73933117e+10,cover=127959
+					55:[cantidad_eventos_con_wifi_events<35] yes=111,no=112,missing=111,gain=5.35944315e+10,cover=7180
+						111:leaf=1088.71326,cover=7075
+						112:leaf=9018.32422,cover=105
+					56:[tiempo_ultima_instalacion_hasta_fin_ventana<85676.5156] yes=113,no=114,missing=114,gain=6.44748411e+10,cover=120779
+						113:leaf=1501.79944,cover=7002
+						114:leaf=2596.42627,cover=113777
+				28:[apariciones_en_source_6_auctions<7.5] yes=57,no=58,missing=58,gain=1.49899182e+11,cover=91856
+					57:[tiempo_minimo_entre_apariciones_auctions<0.208038002] yes=115,no=116,missing=116,gain=1.25734814e+11,cover=9335
+						115:leaf=1771.79688,cover=4340
+						116:leaf=4347.72266,cover=4995
+					58:[apariciones_hora_18_a_23_auctions<0.5] yes=117,no=118,missing=118,gain=1.10497497e+11,cover=82521
+						117:leaf=2095.11963,cover=39328
+						118:leaf=1284.14282,cover=43193
+			14:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<61210.4141] yes=29,no=30,missing=30,gain=1.03702921e+11,cover=82441
+				29:[apariciones_hora_23_a_2_auctions<18.5] yes=59,no=60,missing=60,gain=5.26637793e+10,cover=35108
+					59:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<241531.828] yes=119,no=120,missing=120,gain=4.39767122e+10,cover=30391
+						119:leaf=1006.39832,cover=15866
+						120:leaf=163.528625,cover=14525
+					60:[tiempo_medio_entre_apariciones_auctions<6554.3418] yes=121,no=122,missing=122,gain=5.42463836e+10,cover=4717
+						121:leaf=1770.04224,cover=4691
+						122:leaf=17507.3555,cover=26
+				30:[apariciones_en_dia_2_auctions<1.5] yes=61,no=62,missing=61,gain=7.61927434e+10,cover=47333
+					61:[tiempo_minimo_entre_apariciones_auctions<277.41275] yes=123,no=124,missing=124,gain=6.41820262e+10,cover=12186
+						123:leaf=2777.05835,cover=9211
+						124:leaf=906.82373,cover=2975
+					62:[apariciones_hora_14_a_18_auctions<4.5] yes=125,no=126,missing=126,gain=6.3507202e+10,cover=35147
+						125:leaf=1046.19421,cover=26992
+						126:leaf=2160.79468,cover=8155
+booster[7]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<92295.2578] yes=1,no=2,missing=2,gain=2.5957436e+12,cover=1304437
+	1:[apariciones_hora_11_a_14_auctions<0.5] yes=3,no=4,missing=4,gain=9.10897447e+11,cover=667956
+		3:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<2351.427] yes=7,no=8,missing=8,gain=5.8553847e+11,cover=485906
+			7:[apariciones_hora_18_a_23_auctions<1.5] yes=15,no=16,missing=16,gain=1.78704744e+11,cover=53810
+				15:[tiempo_minimo_entre_apariciones_auctions<6.38354492] yes=31,no=32,missing=31,gain=1.11856386e+11,cover=17509
+					31:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<80.4859772] yes=61,no=62,missing=62,gain=9.03817134e+10,cover=11837
+						61:leaf=-1070.22644,cover=1379
+						62:leaf=1943.68823,cover=10458
+					32:[tiempo_minimo_entre_apariciones_auctions<22282.9395] yes=63,no=64,missing=64,gain=6.00113275e+10,cover=5672
+						63:leaf=-895.611023,cover=4446
+						64:leaf=1869.26782,cover=1226
+				16:[tiempo_maximo_entre_apariciones_auctions<74231.4531] yes=33,no=34,missing=34,gain=9.43598961e+10,cover=36301
+					33:[apariciones_en_source_0_auctions<6.5] yes=65,no=66,missing=65,gain=5.83225262e+10,cover=20090
+						65:leaf=-1425.76416,cover=11080
+						66:leaf=-226.690598,cover=9010
+					34:[tiempo_aparicion_media_hasta_fin_ventana_auctions<171578.531] yes=67,no=68,missing=68,gain=7.13886351e+10,cover=16211
+						67:leaf=549.458191,cover=13861
+						68:leaf=-1536.36035,cover=2350
+			8:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<246004.422] yes=17,no=18,missing=18,gain=3.04685253e+11,cover=432096
+				17:[tiempo_maximo_entre_apariciones_auctions<99955.0938] yes=35,no=36,missing=35,gain=2.47201792e+11,cover=330101
+					35:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<162305.438] yes=69,no=70,missing=70,gain=1.86556088e+11,cover=265744
+						69:leaf=1522.64478,cover=168826
+						70:leaf=913.392944,cover=96918
+					36:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<183250.797] yes=71,no=72,missing=72,gain=1.36299676e+11,cover=64357
+						71:leaf=2930.20581,cover=16565
+						72:leaf=1765.04761,cover=47792
+				18:[tiempo_maximo_entre_apariciones_auctions<88556.3438] yes=37,no=38,missing=38,gain=1.77454154e+11,cover=101995
+					37:[apariciones_en_source_8_auctions<9.5] yes=73,no=74,missing=74,gain=9.89408788e+10,cover=51872
+						73:leaf=1015.4375,cover=16369
+						74:leaf=-24.6490784,cover=35503
+					38:[tiempo_minimo_entre_apariciones_auctions<37.5972099] yes=75,no=76,missing=76,gain=1.13905172e+11,cover=50123
+						75:leaf=1484.87976,cover=40460
+						76:leaf=147.3806,cover=9663
+		4:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<33107.3203] yes=9,no=10,missing=10,gain=2.57695416e+11,cover=182050
+			9:[apariciones_en_source_1_auctions<7611.5] yes=19,no=20,missing=20,gain=7.60170004e+10,cover=130686
+				19:[apariciones_en_source_8_auctions<35.5] yes=39,no=40,missing=40,gain=8.22524805e+10,cover=111606
+					39:[apariciones_en_source_0_auctions<9.5] yes=77,no=78,missing=77,gain=4.76614246e+10,cover=29774
+						77:leaf=-108.22509,cover=14079
+						78:leaf=778.713867,cover=15695
+					40:[tiempo_minimo_entre_apariciones_auctions<0.540060997] yes=79,no=80,missing=80,gain=4.49859461e+10,cover=81832
+						79:leaf=-154.955017,cover=58258
+						80:leaf=-727.975403,cover=23574
+				20:[apariciones_en_source_7_auctions<61.5] yes=41,no=42,missing=42,gain=6.71368028e+10,cover=19080
+					41:[tiempo_medio_entre_apariciones_auctions<68551.9062] yes=81,no=82,missing=82,gain=8.90766049e+10,cover=5921
+						81:leaf=1365.02625,cover=5756
+						82:leaf=9589.70898,cover=165
+					42:[tiempo_hasta_click_max_clicks<0.0890000015] yes=83,no=84,missing=84,gain=4.42417439e+10,cover=13159
+						83:leaf=42675.3711,cover=2
+						84:leaf=167.015961,cover=13157
+			10:[tiempo_maximo_entre_apariciones_auctions<116802.375] yes=21,no=22,missing=21,gain=1.13744871e+11,cover=51364
+				21:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<128506.547] yes=43,no=44,missing=44,gain=8.80057057e+10,cover=43495
+					43:[tiempo_maximo_entre_apariciones_auctions<86550.7734] yes=85,no=86,missing=85,gain=5.70070139e+10,cover=9390
+						85:leaf=1523.69971,cover=9266
+						86:leaf=9049.77539,cover=124
+					44:[apariciones_hora_14_a_18_auctions<22.5] yes=87,no=88,missing=88,gain=7.3233793e+10,cover=34105
+						87:leaf=237.721069,cover=30502
+						88:leaf=1906.06665,cover=3603
+				22:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<199718.344] yes=45,no=46,missing=46,gain=5.13051853e+10,cover=7869
+					45:[apariciones_en_source_0_auctions<6.5] yes=89,no=90,missing=89,gain=6.3098667e+10,cover=1283
+						89:leaf=3280.45557,cover=1143
+						90:leaf=11136.2305,cover=140
+					46:[tiempo_maximo_entre_apariciones_auctions<198294.391] yes=91,no=92,missing=92,gain=3.63906662e+10,cover=6586
+						91:leaf=1471.88086,cover=6013
+						92:leaf=4389.62598,cover=573
+	2:[apariciones_hora_6_a_11_auctions<0.5] yes=5,no=6,missing=5,gain=2.36720226e+11,cover=636481
+		5:[apariciones_en_source_3_auctions<3.5] yes=11,no=12,missing=12,gain=1.46251186e+11,cover=595839
+			11:[apariciones_hora_18_a_23_events<1.5] yes=23,no=24,missing=23,gain=6.12173414e+10,cover=33113
+				23:[so_mas_usado_auctions<6] yes=47,no=48,missing=48,gain=5.53783132e+10,cover=30734
+					47:[tiempo_maximo_entre_apariciones_auctions<136775.75] yes=93,no=94,missing=93,gain=4.88764867e+10,cover=26750
+						93:leaf=1111.38757,cover=26201
+						94:leaf=4445.6377,cover=549
+					48:[tiempo_maximo_entre_apariciones_auctions<86059.5] yes=95,no=96,missing=96,gain=4.95381545e+10,cover=3984
+						95:leaf=1942.55774,cover=3150
+						96:leaf=4976.28711,cover=834
+				24:[apariciones_hora_23_a_2_auctions<127] yes=49,no=50,missing=50,gain=5.03524844e+10,cover=2379
+					49:[apariciones_en_dia_2_events<68.5] yes=97,no=98,missing=98,gain=4.7310635e+10,cover=2375
+						97:leaf=850.936401,cover=1312
+						98:leaf=-2289.35815,cover=1063
+					50:leaf=34605.7852,cover=4
+			12:[apariciones_en_source_1_auctions<2.5] yes=25,no=26,missing=25,gain=1.00518593e+11,cover=562726
+				25:[apariciones_en_source_7_auctions<1.5] yes=51,no=52,missing=51,gain=1.3591013e+11,cover=497758
+					51:[tiempo_minimo_entre_apariciones_auctions<0.149219513] yes=99,no=100,missing=100,gain=8.68053156e+10,cover=488676
+						99:leaf=689.444336,cover=5984
+						100:leaf=2030.87085,cover=482692
+					52:[tiempo_maximo_entre_apariciones_auctions<99921.7031] yes=101,no=102,missing=102,gain=8.89170166e+10,cover=9082
+						101:leaf=3096.37476,cover=8510
+						102:leaf=7603.07861,cover=572
+				26:[apariciones_hora_14_a_18_auctions<8.5] yes=53,no=54,missing=54,gain=6.55356068e+10,cover=64968
+					53:[apariciones_hora_2_a_6_auctions<160.5] yes=103,no=104,missing=104,gain=9.07670979e+10,cover=54435
+						103:leaf=1452.29419,cover=54188
+						104:leaf=-5259.47998,cover=247
+					54:[apariciones_en_dia_2_auctions<19.5] yes=105,no=106,missing=105,gain=7.84201155e+10,cover=10533
+						105:leaf=3112.94238,cover=6599
+						106:leaf=1138.32812,cover=3934
+		6:[apariciones_hora_6_a_11_auctions<44.5] yes=13,no=14,missing=14,gain=5.84703672e+10,cover=40642
+			13:[tiempo_ultima_instalacion_hasta_fin_ventana<5769.49023] yes=27,no=28,missing=28,gain=6.14293832e+10,cover=38604
+				27:[cantidad_evento_15_events<0.5] yes=55,no=56,missing=56,gain=2.52055224e+10,cover=152
+					55:[apariciones_en_source_3_auctions<9] yes=107,no=108,missing=108,gain=5.73548954e+10,cover=70
+						107:leaf=20131.8184,cover=12
+						108:leaf=-5551.31592,cover=58
+					56:[tiempo_ultima_instalacion_hasta_fin_ventana<4389.86621] yes=109,no=110,missing=110,gain=1.82518907e+10,cover=82
+						109:leaf=-6893.54785,cover=63
+						110:leaf=-19269.291,cover=19
+				28:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<147537.828] yes=57,no=58,missing=58,gain=4.52276388e+10,cover=38452
+					57:[tiempo_maximo_entre_apariciones_auctions<42172.2812] yes=111,no=112,missing=112,gain=4.65280451e+10,cover=19001
+						111:leaf=87.0294647,cover=6917
+						112:leaf=1225.30652,cover=12084
+					58:[tiempo_aparicion_media_hasta_fin_ventana_auctions<90624.8672] yes=113,no=114,missing=114,gain=7.55249644e+10,cover=19451
+						113:leaf=1543.53333,cover=19423
+						114:leaf=19420.5938,cover=28
+			14:[apariciones_hora_11_a_14_events<10.5] yes=29,no=30,missing=29,gain=5.55061862e+10,cover=2038
+				29:[apariciones_en_source_0_auctions<149.5] yes=59,no=60,missing=59,gain=3.54153308e+10,cover=2034
+					59:[apariciones_hora_18_a_23_auctions<94] yes=115,no=116,missing=116,gain=5.24614369e+10,cover=1838
+						115:leaf=-747.564758,cover=1766
+						116:leaf=8827.06348,cover=72
+					60:[apariciones_en_dia_2_auctions<81] yes=117,no=118,missing=118,gain=3.37129185e+10,cover=196
+						117:leaf=3170.43896,cover=44
+						118:leaf=-7764.45947,cover=152
+				30:leaf=36077.5469,cover=4
+booster[8]:
+0:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<10383.2109] yes=1,no=2,missing=2,gain=1.23305722e+12,cover=1304437
+	1:[tiempo_maximo_entre_apariciones_auctions<72055.0781] yes=3,no=4,missing=4,gain=2.14261563e+11,cover=235395
+		3:[tiempo_medio_entre_apariciones_auctions<85.6488342] yes=7,no=8,missing=8,gain=1.2963364e+11,cover=129080
+			7:[tiempo_maximo_entre_apariciones_auctions<3700.10669] yes=15,no=16,missing=16,gain=4.18573681e+10,cover=7397
+				15:[tiempo_ultima_instalacion_hasta_fin_ventana<113233.938] yes=31,no=32,missing=32,gain=4.42143785e+10,cover=6737
+					31:[tiempo_minimo_entre_apariciones_auctions<2.26337743] yes=63,no=64,missing=64,gain=5.91005819e+10,cover=817
+						63:leaf=1175.27808,cover=557
+						64:leaf=-5205.75,cover=260
+					32:[tiempo_maximo_entre_apariciones_auctions<0.0223535001] yes=65,no=66,missing=66,gain=4.21983027e+10,cover=5920
+						65:leaf=11124.2051,cover=59
+						66:leaf=1791.64832,cover=5861
+				16:[apariciones_en_source_1_auctions<237] yes=33,no=34,missing=34,gain=8.52063334e+09,cover=660
+					33:[apariciones_hora_23_a_2_auctions<64.5] yes=67,no=68,missing=68,gain=6.65089229e+09,cover=124
+						67:leaf=-5592.18652,cover=88
+						68:leaf=44.4767342,cover=36
+					34:[cantidad_apariciones_en_ventana_auctions<280.5] yes=69,no=70,missing=70,gain=2.05573079e+10,cover=536
+						69:leaf=16855.9551,cover=7
+						70:leaf=-1021.6239,cover=529
+			8:[tiempo_maximo_entre_apariciones_auctions<10379.0137] yes=17,no=18,missing=18,gain=1.22273382e+11,cover=121683
+				17:[cantidad_evento_23_events<1.5] yes=35,no=36,missing=36,gain=4.51314156e+10,cover=10527
+					35:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<4280.23242] yes=71,no=72,missing=72,gain=3.53216143e+10,cover=1606
+						71:leaf=-1038.49744,cover=935
+						72:leaf=2287.44678,cover=671
+					36:[desvio_entre_clicks<1290.70483] yes=73,no=74,missing=74,gain=3.04146842e+10,cover=8921
+						73:leaf=33584.8086,cover=2
+						74:leaf=-1675.27502,cover=8919
+				18:[apariciones_hora_23_a_2_auctions<0.5] yes=37,no=38,missing=38,gain=6.0802732e+10,cover=111156
+					37:[apariciones_en_dia_3_auctions<51.5] yes=75,no=76,missing=76,gain=4.82256609e+10,cover=12367
+						75:leaf=918.263428,cover=10463
+						76:leaf=-996.399658,cover=1904
+					38:[cantidad_apariciones_en_ventana_auctions<27.5] yes=77,no=78,missing=78,gain=7.27320003e+10,cover=98789
+						77:leaf=-824.074585,cover=18562
+						78:leaf=-55.2922707,cover=80227
+		4:[apariciones_hora_14_a_18_auctions<0.5] yes=9,no=10,missing=10,gain=1.58922949e+11,cover=106315
+			9:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<438.140564] yes=19,no=20,missing=20,gain=7.0576767e+10,cover=48937
+				19:[cantidad_apariciones_en_ventana_auctions<85.5] yes=39,no=40,missing=40,gain=2.72755958e+10,cover=4772
+					39:[apariciones_hora_2_a_6_auctions<60.5] yes=79,no=80,missing=80,gain=2.74949304e+10,cover=3947
+						79:leaf=64.5869904,cover=3939
+						80:leaf=19431.8965,cover=8
+					40:[tiempo_maximo_entre_clicks<-133796.547] yes=81,no=82,missing=82,gain=1.69679708e+10,cover=825
+						81:leaf=24201.9414,cover=2
+						82:leaf=-2196.146,cover=823
+				20:[tiempo_minimo_entre_apariciones_auctions<1.54966998] yes=41,no=42,missing=42,gain=7.85509253e+10,cover=44165
+					41:[apariciones_hora_2_a_6_auctions<0.5] yes=83,no=84,missing=84,gain=8.02816e+10,cover=23347
+						83:leaf=2465.26904,cover=8205
+						84:leaf=1105.72327,cover=15142
+					42:[tiempo_minimo_entre_apariciones_auctions<28489.0859] yes=85,no=86,missing=85,gain=6.82089349e+10,cover=20818
+						85:leaf=392.12085,cover=17890
+						86:leaf=2214.18213,cover=2928
+			10:[apariciones_en_dia_3_auctions<50.5] yes=21,no=22,missing=22,gain=8.12900516e+10,cover=57378
+				21:[tiempo_minimo_entre_apariciones_auctions<199.225067] yes=43,no=44,missing=44,gain=5.51396188e+10,cover=48059
+					43:[apariciones_en_dia_1_auctions<198.5] yes=87,no=88,missing=88,gain=5.5278379e+10,cover=42954
+						87:leaf=309.761322,cover=37649
+						88:leaf=1516.45837,cover=5305
+					44:[apariciones_en_dia_1_auctions<2.5] yes=89,no=90,missing=89,gain=6.26297078e+10,cover=5105
+						89:leaf=-91.6696091,cover=3942
+						90:leaf=-3013.58447,cover=1163
+				22:[apariciones_en_source_3_auctions<17.5] yes=45,no=46,missing=45,gain=2.83884831e+10,cover=9319
+					45:[apariciones_hora_18_a_23_auctions<4.5] yes=91,no=92,missing=92,gain=2.73983529e+10,cover=6409
+						91:leaf=2075.80518,cover=508
+						92:leaf=-600.553955,cover=5901
+					46:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<8136.75684] yes=93,no=94,missing=94,gain=1.65086577e+10,cover=2910
+						93:leaf=-1454.60669,cover=2669
+						94:leaf=-4475.73145,cover=241
+	2:[apariciones_hora_2_a_6_auctions<0.5] yes=5,no=6,missing=5,gain=5.42274224e+11,cover=1069042
+		5:[apariciones_en_source_6_auctions<3.5] yes=11,no=12,missing=12,gain=1.0147804e+11,cover=680211
+			11:[cantidad_apariciones_en_ventana_auctions<13.5] yes=23,no=24,missing=24,gain=1.30942894e+11,cover=19180
+				23:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<178895.75] yes=47,no=48,missing=48,gain=8.77058458e+10,cover=13694
+					47:[apariciones_en_source_2_auctions<8.5] yes=95,no=96,missing=96,gain=4.14274683e+10,cover=11082
+						95:leaf=-811.315796,cover=330
+						96:leaf=3167.73169,cover=10752
+					48:[tiempo_minimo_entre_apariciones_auctions<17.0681019] yes=97,no=98,missing=98,gain=6.03067351e+10,cover=2612
+						97:leaf=2899.05225,cover=1017
+						98:leaf=-548.667358,cover=1595
+				24:[apariciones_en_dia_1_auctions<106.5] yes=49,no=50,missing=49,gain=3.60611389e+10,cover=5486
+					49:[apariciones_en_source_3_auctions<9.5] yes=99,no=100,missing=99,gain=3.45282642e+10,cover=5317
+						99:leaf=323.273773,cover=4306
+						100:leaf=2595.34546,cover=1011
+					50:[tiempo_minimo_entre_apariciones_auctions<0.00143900001] yes=101,no=102,missing=102,gain=2.5326039e+10,cover=169
+						101:leaf=4340.57275,cover=32
+						102:leaf=-6486.47754,cover=137
+			12:[tiempo_minimo_entre_apariciones_auctions<247.13623] yes=25,no=26,missing=25,gain=1.0906606e+11,cover=661031
+				25:[tiempo_ultima_instalacion_hasta_fin_ventana<167627.594] yes=51,no=52,missing=52,gain=8.41602826e+10,cover=620231
+					51:[cantidad_eventos_sin_wifi_events<29.5] yes=103,no=104,missing=103,gain=8.88451891e+10,cover=61123
+						103:leaf=932.702026,cover=59811
+						104:leaf=-1977.90088,cover=1312
+					52:[apariciones_en_source_1_auctions<32.5] yes=105,no=106,missing=105,gain=5.73807002e+10,cover=559108
+						105:leaf=1318.63,cover=548164
+						106:leaf=509.182404,cover=10944
+				26:[apariciones_en_source_7_auctions<1.5] yes=53,no=54,missing=53,gain=1.82004171e+11,cover=40800
+					53:[apariciones_en_source_4_auctions<2.5] yes=107,no=108,missing=108,gain=9.57067592e+10,cover=36370
+						107:leaf=2283.91284,cover=3061
+						108:leaf=239.182053,cover=33309
+					54:[apariciones_hora_14_a_18_auctions<2.5] yes=109,no=110,missing=110,gain=1.2670917e+11,cover=4430
+						109:leaf=3244.2627,cover=4181
+						110:leaf=-4869.4292,cover=249
+		6:[apariciones_hora_11_a_14_auctions<0.5] yes=13,no=14,missing=14,gain=2.37009109e+11,cover=388831
+			13:[cantidad_apariciones_en_ventana_auctions<122.5] yes=27,no=28,missing=28,gain=1.03087079e+11,cover=305507
+				27:[cantidad_evento_7_events<1.5] yes=55,no=56,missing=55,gain=8.10401137e+10,cover=283242
+					55:[tiempo_maximo_entre_apariciones_auctions<220106.375] yes=111,no=112,missing=111,gain=7.96528476e+10,cover=274294
+						111:leaf=946.829712,cover=272516
+						112:leaf=3296.53882,cover=1778
+					56:[cantidad_apariciones_en_ventana_events<5.5] yes=113,no=114,missing=114,gain=1.26304379e+11,cover=8948
+						113:leaf=-1178.30432,cover=5383
+						114:leaf=1507.323,cover=3565
+				28:[apariciones_hora_2_a_6_auctions<24.5] yes=57,no=58,missing=58,gain=8.65986478e+10,cover=22265
+					57:[tiempo_maximo_entre_apariciones_auctions<51092.7422] yes=115,no=116,missing=116,gain=4.22985564e+10,cover=5343
+						115:leaf=-175.22821,cover=1537
+						116:leaf=2000.047,cover=3806
+					58:[apariciones_hora_18_a_23_events<163] yes=117,no=118,missing=117,gain=5.37896591e+10,cover=16922
+						117:leaf=-252.488892,cover=16918
+						118:leaf=36055.1914,cover=4
+			14:[apariciones_en_source_1_auctions<388.5] yes=29,no=30,missing=30,gain=1.0621603e+11,cover=83324
+				29:[apariciones_en_source_0_auctions<672] yes=59,no=60,missing=60,gain=9.29497498e+10,cover=62857
+					59:[tiempo_maximo_entre_apariciones_auctions<35508.9453] yes=119,no=120,missing=120,gain=5.12773038e+10,cover=27678
+						119:leaf=-715.299683,cover=3907
+						120:leaf=652.778259,cover=23771
+					60:[tiempo_maximo_entre_apariciones_auctions<13175.8125] yes=121,no=122,missing=122,gain=4.37486797e+10,cover=35179
+						121:leaf=3959.8689,cover=279
+						122:leaf=-432.644562,cover=34900
+				30:[apariciones_en_source_7_auctions<10.5] yes=61,no=62,missing=62,gain=5.11694029e+10,cover=20467
+					61:[tiempo_medio_entre_apariciones_auctions<11138.5879] yes=123,no=124,missing=124,gain=6.09473987e+10,cover=5183
+						123:leaf=-31.7860813,cover=1501
+						124:leaf=2614.17505,cover=3682
+					62:[tiempo_maximo_entre_apariciones_auctions<21165.5664] yes=125,no=126,missing=126,gain=3.77242911e+10,cover=15284
+						125:leaf=3568.63818,cover=498
+						126:leaf=474.421234,cover=14786
+booster[9]:
+0:[apariciones_hora_6_a_11_auctions<0.5] yes=1,no=2,missing=1,gain=7.48656525e+11,cover=1304437
+	1:[apariciones_hora_23_a_2_auctions<0.5] yes=3,no=4,missing=3,gain=2.25036993e+11,cover=1046036
+		3:[tiempo_ultima_instalacion_hasta_fin_ventana<82806.625] yes=7,no=8,missing=8,gain=1.16618953e+11,cover=721613
+			7:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<73741.125] yes=15,no=16,missing=16,gain=1.01086691e+11,cover=39122
+				15:[apariciones_en_source_2_auctions<1.5] yes=31,no=32,missing=32,gain=1.08380389e+11,cover=7025
+					31:[tiempo_medio_entre_apariciones_auctions<430.466278] yes=63,no=64,missing=63,gain=3.04471409e+10,cover=275
+						63:leaf=-10715,cover=167
+						64:leaf=-3143.50244,cover=108
+					32:[promedio_eventos_por_dia_events<31.75] yes=65,no=66,missing=66,gain=6.84225004e+10,cover=6750
+						65:leaf=338.6875,cover=3653
+						66:leaf=-1897.30847,cover=3097
+				16:[cantidad_evento_0_events<40.5] yes=33,no=34,missing=33,gain=4.67391201e+10,cover=32097
+					33:[tiempo_ultima_instalacion_hasta_fin_ventana<250.786499] yes=67,no=68,missing=68,gain=3.8428287e+10,cover=32087
+						67:leaf=-4725.20703,cover=171
+						68:leaf=520.542603,cover=31916
+					34:[apariciones_en_dia_2_auctions<28] yes=69,no=70,missing=70,gain=3.29506488e+10,cover=10
+						69:leaf=-12300.9014,cover=2
+						70:leaf=32592.0156,cover=8
+			8:[apariciones_en_dia_3_auctions<25.5] yes=17,no=18,missing=17,gain=9.35303578e+10,cover=682491
+				17:[apariciones_en_source_7_auctions<8.5] yes=35,no=36,missing=36,gain=8.83632374e+10,cover=666265
+					35:[apariciones_en_source_1_auctions<56.5] yes=71,no=72,missing=72,gain=1.31756917e+11,cover=40439
+						71:leaf=568.357117,cover=15256
+						72:leaf=1871.80713,cover=25183
+					36:[tiempo_minimo_entre_apariciones_auctions<732.211914] yes=73,no=74,missing=73,gain=1.10269825e+11,cover=625826
+						73:leaf=879.940063,cover=594569
+						74:leaf=205.484375,cover=31257
+				18:[tiempo_ultima_instalacion_hasta_fin_ventana<91177.0312] yes=37,no=38,missing=38,gain=5.69709855e+10,cover=16226
+					37:[apariciones_en_source_0_auctions<43] yes=75,no=76,missing=75,gain=3.81678141e+10,cover=142
+						75:leaf=10241.6396,cover=107
+						76:leaf=-2985.6958,cover=35
+					38:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<23909.8496] yes=77,no=78,missing=78,gain=4.63293809e+10,cover=16084
+						77:leaf=-433.139465,cover=11075
+						78:leaf=849.516052,cover=5009
+		4:[apariciones_hora_18_a_23_auctions<0.5] yes=9,no=10,missing=10,gain=1.43736766e+11,cover=324423
+			9:[apariciones_en_source_3_auctions<5.5] yes=19,no=20,missing=20,gain=6.2246486e+10,cover=115246
+				19:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<82313.7422] yes=39,no=40,missing=40,gain=7.80375327e+10,cover=25435
+					39:[tiempo_medio_entre_apariciones_auctions<11805.207] yes=79,no=80,missing=79,gain=5.48502979e+10,cover=12770
+						79:leaf=1659.88416,cover=6213
+						80:leaf=208.632599,cover=6557
+					40:[apariciones_en_source_5_auctions<4.5] yes=81,no=82,missing=81,gain=6.22888346e+10,cover=12665
+						81:leaf=-364.823883,cover=12606
+						82:leaf=10939.1533,cover=59
+				20:[tiempo_minimo_entre_apariciones_auctions<59786.2617] yes=41,no=42,missing=41,gain=7.62730906e+10,cover=89811
+					41:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<125.289307] yes=83,no=84,missing=84,gain=5.4210986e+10,cover=86176
+						83:leaf=-1246.92749,cover=1472
+						84:leaf=894.868286,cover=84704
+					42:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<24.3221016] yes=85,no=86,missing=86,gain=4.26853827e+10,cover=3635
+						85:leaf=32008.4043,cover=5
+						86:leaf=2445.38696,cover=3630
+			10:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<355.240967] yes=21,no=22,missing=22,gain=1.20774214e+11,cover=209177
+				21:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<30.7563057] yes=43,no=44,missing=44,gain=2.18756055e+10,cover=10857
+					43:[tiempo_minimo_entre_apariciones_auctions<17307.2637] yes=87,no=88,missing=88,gain=1.86197402e+10,cover=2243
+						87:leaf=-1728.42847,cover=2230
+						88:leaf=-14541.7139,cover=13
+					44:[tiempo_hasta_click_mean_clicks<1212.43359] yes=89,no=90,missing=89,gain=2.28458455e+10,cover=8614
+						89:leaf=-602.404541,cover=8604
+						90:leaf=15359.292,cover=10
+				22:[tiempo_maximo_entre_apariciones_auctions<52812.2578] yes=45,no=46,missing=46,gain=1.1254458e+11,cover=198320
+					45:[tiempo_medio_entre_apariciones_auctions<44.4003754] yes=91,no=92,missing=92,gain=9.21142559e+10,cover=47874
+						91:leaf=5404.25684,cover=368
+						92:leaf=-147.093475,cover=47506
+					46:[apariciones_en_dia_1_auctions<21.5] yes=93,no=94,missing=94,gain=1.31217457e+11,cover=150446
+						93:leaf=263.249542,cover=95323
+						94:leaf=941.654724,cover=55123
+	2:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<20732.2305] yes=5,no=6,missing=6,gain=1.36099185e+11,cover=258401
+		5:[tiempo_maximo_entre_apariciones_auctions<225653.312] yes=11,no=12,missing=12,gain=4.40811356e+10,cover=124591
+			11:[apariciones_en_dia_3_auctions<1.5] yes=23,no=24,missing=24,gain=4.71128637e+10,cover=124251
+				23:[apariciones_hora_11_a_14_auctions<78] yes=47,no=48,missing=48,gain=4.6964863e+10,cover=3729
+					47:[apariciones_en_dia_2_auctions<2.5] yes=95,no=96,missing=95,gain=4.30657618e+10,cover=3721
+						95:leaf=-163.367157,cover=1634
+						96:leaf=-2562.47754,cover=2087
+					48:[apariciones_en_dia_1_auctions<227] yes=97,no=98,missing=97,gain=1.18848676e+10,cover=8
+						97:leaf=32876.9219,cover=5
+						98:leaf=4255.21729,cover=3
+				24:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<56109.9258] yes=49,no=50,missing=50,gain=4.37455913e+10,cover=120522
+					49:[apariciones_en_source_0_auctions<1.5] yes=99,no=100,missing=100,gain=4.04585964e+10,cover=495
+						99:leaf=9242.34863,cover=28
+						100:leaf=-4245.86133,cover=467
+					50:[apariciones_en_source_3_auctions<18.5] yes=101,no=102,missing=102,gain=2.78866289e+10,cover=120027
+						101:leaf=137.502182,cover=27487
+						102:leaf=-263.985626,cover=92540
+			12:[tiempo_ultima_instalacion_hasta_fin_ventana<164350.906] yes=25,no=26,missing=25,gain=3.79106099e+10,cover=340
+				25:[tiempo_desde_hora_mas_frecuente_hasta_00_events<9000] yes=51,no=52,missing=52,gain=6.80660951e+10,cover=304
+					51:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<1668.21936] yes=103,no=104,missing=104,gain=1.0607362e+10,cover=10
+						103:leaf=10081.4141,cover=3
+						104:leaf=39086.9453,cover=7
+					52:[tiempo_medio_entre_apariciones_auctions<19991.1289] yes=105,no=106,missing=106,gain=3.32605235e+10,cover=294
+						105:leaf=-474.343018,cover=120
+						106:leaf=7087.3501,cover=174
+				26:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<237026] yes=53,no=54,missing=54,gain=2.40025559e+10,cover=36
+					53:[tiempo_ultima_instalacion_hasta_fin_ventana<198799.438] yes=107,no=108,missing=108,gain=1.61899909e+10,cover=18
+						107:leaf=-11497.375,cover=6
+						108:leaf=9404.63086,cover=12
+					54:[apariciones_hora_11_a_14_events<18] yes=109,no=110,missing=110,gain=4.7718441e+09,cover=18
+						109:leaf=-18435.9668,cover=14
+						110:leaf=-3705.76587,cover=4
+		6:[tiempo_medio_entre_apariciones_auctions<205654.922] yes=13,no=14,missing=13,gain=5.51403438e+10,cover=133810
+			13:[tiempo_maximo_entre_apariciones_auctions<52452.7578] yes=27,no=28,missing=27,gain=4.72716575e+10,cover=133785
+				27:[apariciones_en_dia_2_auctions<6.5] yes=55,no=56,missing=55,gain=4.07790469e+10,cover=59209
+					55:[tiempo_hasta_click_min_clicks<0.692499995] yes=111,no=112,missing=112,gain=7.22773361e+10,cover=35012
+						111:leaf=12240.1846,cover=61
+						112:leaf=279.381592,cover=34951
+					56:[apariciones_hora_14_a_18_auctions<19.5] yes=113,no=114,missing=114,gain=6.00397292e+10,cover=24197
+						113:leaf=-606.547058,cover=18206
+						114:leaf=670.725159,cover=5991
+				28:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<241088.969] yes=57,no=58,missing=58,gain=6.72802898e+10,cover=74576
+					57:[tiempo_ultima_aparicion_hasta_fin_ventana_auctions<20871.0957] yes=115,no=116,missing=116,gain=4.67549061e+10,cover=41791
+						115:leaf=7759.58545,cover=116
+						116:leaf=752.779846,cover=41675
+					58:[apariciones_hora_18_a_23_auctions<9.5] yes=117,no=118,missing=118,gain=7.13732506e+10,cover=32785
+						117:leaf=-133.98056,cover=27097
+						118:leaf=1229.66125,cover=5688
+			14:[cantidad_evento_2_events<0.5] yes=29,no=30,missing=30,gain=3.48332974e+10,cover=25
+				29:[apariciones_en_dia_1_events<25.5] yes=59,no=60,missing=60,gain=1.03076526e+10,cover=6
+					59:leaf=11104.4971,cover=2
+					60:leaf=-15176.5156,cover=4
+				30:[tiempo_primera_aparicion_hasta_fin_ventana_auctions<236226.781] yes=61,no=62,missing=62,gain=2.05281935e+10,cover=19
+					61:[apariciones_en_source_7_auctions<4.00000095] yes=119,no=120,missing=120,gain=1.38246789e+10,cover=11
+						119:leaf=-10619.9355,cover=2
+						120:leaf=17500.8984,cover=9
+					62:[tiempo_maximo_entre_apariciones_auctions<214695.125] yes=121,no=122,missing=122,gain=8.97246003e+09,cover=8
+						121:leaf=42501.6016,cover=6
+						122:leaf=9544.11719,cover=2
